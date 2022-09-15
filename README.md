@@ -11,6 +11,8 @@
 </a>
 </p>
 
+
+<h3 align="left">Projects:</h3>
 <table>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
