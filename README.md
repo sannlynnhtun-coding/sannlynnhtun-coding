@@ -16,7 +16,7 @@
 <table>
    <tr>
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
-     <td><a href="[https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
+     <td><a href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
   <tr>
   <tr>
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
