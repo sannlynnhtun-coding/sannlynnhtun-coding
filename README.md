@@ -22,6 +22,11 @@
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
      <td><a target="_blank" href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
   <tr>
+     
+  <tr>
+    <td><img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=100 height=100></td>
+     <td><a target="_blank" href="https://bolby-blazor-wasm.netlify.app/">Bolby (Portfolio Project) [C# .NET 6 Blazor Web Assembly]</a></td>
+  <tr>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
      <td><a target="_blank" href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
