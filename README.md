@@ -15,11 +15,15 @@
 <h3 align="left">Projects:</h3>
 <table>
   <tr>
-    <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
-     <td><a href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din)  [C# .NET 6 Blazor Web Assembly]</a></td>
+    <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
+     <td><a href="https://sannlynnhtun-coding.github.io/crypto-currency-tracker-v2/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
+  <tr>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
-     <td><a href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din)  [C# .NET 6 Blazor Server]</a></td>
+     <td><a href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
+  <tr>
+    <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
+     <td><a href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
   </tr>
   <tr>
     <td><img src="https://openmapweather-blazor-server.herokuapp.com/images/app.png" width=100 height=100></td>
