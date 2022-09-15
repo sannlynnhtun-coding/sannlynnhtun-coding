@@ -12,10 +12,9 @@
 </p>
 
 
-<h3 align="left">Projects:</h3>
 <table>
    <tr>
-      <td colspan="2">🚀 **Projects**</td>   
+      <td colspan="2"><h3 align="center">🚀 **Projects** 🚀</h3></td>   
    </tr>   
    <tr>
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
