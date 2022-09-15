@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Projects:</h3>
-<table style="width: 100%;">
+<table>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
      <td><a href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din)  [C# .NET 6 Blazor Web Assembly]</a></td>
