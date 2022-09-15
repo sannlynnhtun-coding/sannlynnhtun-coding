@@ -16,22 +16,22 @@
 <table>
    <tr>
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
-     <td><a href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
+     <td><a target="_blank" href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
   <tr>
   <tr>
     <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=100 height=100></td>
-     <td><a href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
+     <td><a target="_blank" href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
   <tr>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
-     <td><a href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
+     <td><a target="_blank" href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
   <tr>
     <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=100 height=100></td>
-     <td><a href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
+     <td><a target="_blank" href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
   </tr>
   <tr>
     <td><img src="https://openmapweather-blazor-server.herokuapp.com/images/app.png" width=100 height=100></td>
-     <td><a href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
+     <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
   </tr>
  </table>
 
