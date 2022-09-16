@@ -53,11 +53,6 @@
 
 
 
-
-Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
-[link](https://example.com){:target="_blank"}
-%md <a href="https://google.com" target="_blank">google link</a>
-
 <table align="center">
    <tr>
       <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>   
