@@ -87,6 +87,11 @@
     <td><img src="https://openmapweather-blazor-server.herokuapp.com/images/app.png" width=50 height=50></td>
      <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
   </tr>
+  <tr>
+        <td>7.</td>
+    <td><img src="https://mysta-pile.herokuapp.com/fav.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
+  </tr>
  </table>
 
 <h3 align="left">Languages and Tools:</h3>
