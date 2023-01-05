@@ -95,6 +95,11 @@
     <td><img src="https://blaozr-wasm-weather-app.netlify.app/cloud.png" width=50 height=50></td>
      <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
   </tr>
+  <tr>
+        <td>9.</td>
+    <td><img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://svelte-dotolist-proj.vercel.app/">To Do List [Svelte]</a></td>
+  </tr>
  </table>
 
 <h3 align="left">Languages and Tools:</h3>
