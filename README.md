@@ -51,8 +51,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-
-
 <table align="center">
    <tr>
       <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>   
@@ -91,6 +89,11 @@
         <td>7.</td>
     <td><img src="https://mysta-pile.herokuapp.com/fav.png" width=50 height=50></td>
      <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
+  </tr>
+  <tr>
+        <td>8.</td>
+    <td><img src="https://blaozr-wasm-weather-app.netlify.app/cloud.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
   </tr>
  </table>
 
