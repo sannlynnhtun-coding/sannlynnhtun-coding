@@ -82,17 +82,17 @@
     </tr>   
     <tr>
         <td>6.</td>
-    <td><img src="https://openmapweather-blazor-server.herokuapp.com/images/app.png" width=50 height=50></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=50 height=50></td>
      <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
   </tr>
   <tr>
         <td>7.</td>
-    <td><img src="https://mysta-pile.herokuapp.com/fav.png" width=50 height=50></td>
+    <td><img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=50 height=50></td>
      <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
   </tr>
   <tr>
         <td>8.</td>
-    <td><img src="https://blaozr-wasm-weather-app.netlify.app/cloud.png" width=50 height=50></td>
+    <td><img src="https://open-meteo.com/favicon.ico" width=50 height=50></td>
      <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
   </tr>
   <tr>
