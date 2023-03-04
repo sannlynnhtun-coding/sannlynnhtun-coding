@@ -115,6 +115,21 @@
     <td><img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=50 height=50></td>
      <td><a target="_blank" href="https://blazor-wasm-expense-tracker.netlify.app/">Expense Tracker [C# .NET 6 Blazor Web Assembly]</a></td>
   </tr>
+    <tr>
+        <td>13.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/1055/1055804.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-dice-roll.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
+    <tr>
+        <td>14.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-roll-dice.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
+    <tr>
+        <td>15.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-calculator.netlify.app/">Calculator [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
  </table>
 
 <h3 align="left">Languages and Tools:</h3>
