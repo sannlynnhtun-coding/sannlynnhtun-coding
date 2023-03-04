@@ -100,6 +100,21 @@
     <td><img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=50 height=50></td>
      <td><a target="_blank" href="https://svelte-dotolist-proj.vercel.app/">To Do List [Svelte]</a></td>
   </tr>
+    <tr>
+        <td>10.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-todolist.netlify.app/">To Do List [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
+    <tr>
+        <td>11.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-memory-card-game.netlify.app/">Memory Card Game [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
+    <tr>
+        <td>12.</td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=50 height=50></td>
+     <td><a target="_blank" href="https://blazor-wasm-expense-tracker.netlify.app/">Expense Tracker [C# .NET 6 Blazor Web Assembly]</a></td>
+  </tr>
  </table>
 
 <h3 align="left">Languages and Tools:</h3>
