@@ -52,85 +52,90 @@
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 <table align="center">
-   <tr>
-      <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>   
-      
-   </tr>   
-   <tr>
-    <td>1.</td>
-    <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>   
     <tr>
-        <td>2.</td>
-    <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
-  <tr>
-  <tr>
-    <td>3.</td>
-    <td><img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=50 height=50></td>
-     <td><a target="_blank" href="https://bolby-blazor-wasm.netlify.app/">Bolby (Portfolio Project) [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>   
+        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+    </tr>
     <tr>
-        <td>4.</td>
-    <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
-  <tr>
-    <td>5.</td>
-    <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
-    </tr>   
-    <tr>
-        <td>6.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
-  </tr>
-  <tr>
-        <td>7.</td>
-    <td><img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
-  </tr>
-  <tr>
-        <td>8.</td>
-    <td><img src="https://open-meteo.com/favicon.ico" width=50 height=50></td>
-     <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
-  <tr>
-        <td>9.</td>
-    <td><img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://svelte-dotolist-proj.vercel.app/">To Do List [Svelte]</a></td>
-  </tr>
-    <tr>
-        <td>10.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-todolist.netlify.app/">To Do List [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
-    <tr>
-        <td>11.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-memory-card-game.netlify.app/">Memory Card Game [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
-    <tr>
-        <td>12.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-expense-tracker.netlify.app/">Expense Tracker [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
-    <tr>
-        <td>13.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/1055/1055804.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-dice-roll.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
-    <tr>
-        <td>14.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-roll-dice.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
+        <td>16.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Budget App [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
     <tr>
         <td>15.</td>
-    <td><img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=50 height=50></td>
-     <td><a target="_blank" href="https://blazor-wasm-calculator.netlify.app/">Calculator [C# .NET 6 Blazor Web Assembly]</a></td>
-  </tr>
- </table>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-calculator.netlify.app/">Calculator [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>14.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-roll-dice.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>13.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/1055/1055804.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-dice-roll.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>12.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-expense-tracker.netlify.app/">Expense Tracker [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>11.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-memory-card-game.netlify.app/">Memory Card Game [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>10.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-todolist.netlify.app/">To Do List [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>9.</td>
+        <td><img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://svelte-dotolist-proj.vercel.app/">To Do List [Svelte]</a></td>
+    </tr>
+    <tr>
+        <td>8.</td>
+        <td><img src="https://open-meteo.com/favicon.ico" width=50 height=50></td>
+        <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>7.</td>
+        <td><img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
+    </tr>
+    <tr>
+        <td>6.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
+    </tr>
+    <tr>
+        <td>5.</td>
+        <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
+    </tr>
+    <tr>
+        <td>4.</td>
+        <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>3.</td>
+        <td><img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=50 height=50></td>
+        <td><a target="_blank" href="https://bolby-blazor-wasm.netlify.app/">Bolby (Portfolio Project) [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>2.</td>
+        <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
+    <tr>
+    <tr>
+        <td>1.</td>
+        <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
