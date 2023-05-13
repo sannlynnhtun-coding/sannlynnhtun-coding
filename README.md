@@ -98,7 +98,7 @@
     <tr>
         <td>8.</td>
         <td><img src="https://open-meteo.com/favicon.ico" width=50 height=50></td>
-        <td><a target="_blank" href="https://blaozr-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
+        <td><a target="_blank" href="https://blazor-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
         <td>7.</td>
