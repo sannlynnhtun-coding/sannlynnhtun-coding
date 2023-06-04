@@ -57,7 +57,12 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
-        <td>16.</td>
+        <td>18.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-pick-a-pile.netlify.app/">Pick A Pile [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>17.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Work With Github Api [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
