@@ -58,6 +58,11 @@
     </tr>
     <tr>
         <td>16.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Work With Github Api [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>16.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Budget App [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
