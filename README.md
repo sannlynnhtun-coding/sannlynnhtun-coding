@@ -58,7 +58,7 @@
     </tr>
     <tr>
         <td>19.</td>
-        <td><img src="https://blazor-wasm-food-delivery.netlify.app/favicon.png" width=50 height=50></td>
+        <td><img src="https://blazor-wasm-food-delivery.netlify.app/assets/img/favicon.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-food-delivery.netlify.app/">Food Delivery [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
