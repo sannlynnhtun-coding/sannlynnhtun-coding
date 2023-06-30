@@ -34,6 +34,11 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>21.</td>
+        <td><img src="https://melodic-journeys-of-collin.netlify.app/logo.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://melodic-journeys-of-collin.netlify.app/">Melodic Journeys Of Collin [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>20.</td>
         <td><img src="https://blazor-wasm-food-delivery.netlify.app/assets/img/favicon.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-food-delivery.netlify.app/">Food Delivery [C# .NET 6 Blazor Web Assembly]</a></td>
