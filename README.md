@@ -35,7 +35,7 @@
     </tr>
     <tr>
         <td>21.</td>
-        <td><img src="https://melodic-journeys-of-collin.netlify.app/logo.png" width=50 height=50></td>
+        <td><img src="https://melodic-journeys-of-collin.netlify.app/assets/img/logo.svg" width=50 height=50></td>
         <td><a target="_blank" href="https://melodic-journeys-of-collin.netlify.app/">Melodic Journeys Of Collin [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
