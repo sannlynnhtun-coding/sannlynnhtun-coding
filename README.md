@@ -56,7 +56,7 @@
     <tr>
         <td>18.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Work With Github Api [C# .NET 6 Blazor Web Assembly]</a></td>
+        <td><a target="_blank" href="https://blazor-wasm-work-with-github-api.netlify.app/">Work With Github Api [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
         <td>17.</td>
