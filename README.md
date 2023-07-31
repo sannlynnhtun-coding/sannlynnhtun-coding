@@ -34,6 +34,11 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>24.</td>
+        <td><img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-tvflix.netlify.app/">Tvflix [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>23.</td>
         <td><img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-git-finder.netlify.app/">GitFinder [C# .NET 6 Blazor Web Assembly]</a></td>
