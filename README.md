@@ -29,6 +29,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
+
 <table align="center">
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
