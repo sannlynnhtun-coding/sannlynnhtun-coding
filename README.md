@@ -158,35 +158,6 @@
     </tr>
 </table>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=AuthMiddlware&theme=github_dark)](https://github.com/sannlynnhtun-coding/AuthMiddlware)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.Tvflix&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.Tvflix)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.WeatherAppV1&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.WeatherAppV1)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.GitFinder&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.GitFinder)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.FoodDelivery&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.FoodDelivery)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.WeatherAppV2&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.WeatherAppV2)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.PickAPile&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.PickAPile)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.WeatherAppV1&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.WeatherAppV1)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.Zodiac&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.Zodiac)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.WorkWithGithubApi&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.WorkWithGithubApi)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.BudgetApp&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.BudgetApp)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.ExpenseTracker&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.ExpenseTracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.ToDoList&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.ToDoList)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sannlynnhtun-coding&repo=BlazorWasm.MovieApp&theme=github_dark)](https://github.com/sannlynnhtun-coding/BlazorWasm.MovieApp)
-
-
 
 
 
