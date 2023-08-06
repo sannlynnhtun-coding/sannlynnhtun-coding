@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sann Lynn Htun</h1>
 <h3 align="center">A frontend/backend developer from Myanmar</h3>
 
+**About me**
+
+- 💼 Team Leader at [ACE Data Systems](https://acedatasystems.com/)
+
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
 <a href="https://fb.com/burma.colllin" target="blank">
