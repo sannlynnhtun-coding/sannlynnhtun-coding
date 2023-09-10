@@ -42,6 +42,11 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>25.</td>
+        <td><img src="https://blazor-wasm-mini-pos-v2.netlify.app/favicon.svg" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-mini-pos-v2.netlify.app/">Mini POS v2 [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>24.</td>
         <td><img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-tvflix.netlify.app/">Tvflix [C# .NET 6 Blazor Web Assembly]</a></td>
