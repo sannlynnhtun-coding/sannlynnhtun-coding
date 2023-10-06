@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td>26.</td>
-        <td><img src="https://blazor-wasm-movie-ticket-online.netlify.app/favicon.png" width=50 height=50></td>
+        <td><img src="https://blazor-wasm-movie-ticket-online.netlify.app/theme/images/favicon.png" width=50 height=30></td>
         <td><a target="_blank" href="https://blazor-wasm-movie-ticket-online.netlify.app/">Movie Tickets Online Booking [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
