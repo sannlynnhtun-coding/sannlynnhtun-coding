@@ -42,6 +42,11 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>26.</td>
+        <td><img src="https://blazor-wasm-movie-ticket-online.netlify.app/favicon.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-movie-ticket-online.netlify.app/">Movie Tickets Online Booking [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>25.</td>
         <td><img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-mini-pos-v2.netlify.app/">Mini POS v2 [C# .NET 6 Blazor Web Assembly]</a></td>
