@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/> I'm Sann Lynn Htun</h1>
+<h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="30" height="30"/> I'm Sann Lynn Htun</h1>
 <h3 align="center">A frontend/backend developer from Myanmar</h3>
 
 **About me**
