@@ -42,6 +42,16 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>28.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-birds.netlify.app/">Birds [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
+        <td>27.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-bagan-map.netlify.app/">Bagan Map [C# .NET 6 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>26.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/3270/3270184.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-movie-ticket-online.netlify.app/">Movie Tickets Online Booking [C# .NET 6 Blazor Web Assembly]</a></td>
