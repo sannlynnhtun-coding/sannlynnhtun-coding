@@ -36,6 +36,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
 ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sannlynnhtun&layout=compact&theme=github_dark)
+![Sann Lynn Htun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sannlynnhtun-coding&theme=github-compact)
 
 <table align="center">
     <tr>
