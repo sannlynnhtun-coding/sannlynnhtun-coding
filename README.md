@@ -7,10 +7,10 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-<a href="https://fb.com/burma.colllin" target="blank">
+<a href="https://fb.com/sannlynnhtun-coding" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
 </a>
-<a href="https://linkedin.com/in/sannlynnhtun-coding" target="blank">
+<a href="https://linkedin.com/in/sannlynnhtun" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="sannlynnhtun-coding" height="40" width="40" />
 </a>
 </p>
