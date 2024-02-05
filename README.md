@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/> I'm Sann Lynn Htun</h1>
-<h3 align="center">A frontend/backend developer from Myanmar</h3>
+<h3 align="center">C# Developer 🔥</h3>
 
 **About me**
 
