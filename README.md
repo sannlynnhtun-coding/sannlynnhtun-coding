@@ -7,14 +7,25 @@
 - 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
 
 <h2  align="center">📫 Reach me on</h2>
-<p align="center">
+<div align="center">
 <a href="https://fb.com/sannlynnhtun-coding" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/sannlynnhtun" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="sannlynnhtun-coding" height="40" width="40" />
 </a>
-</p>
+<a href="https://soundcloud.com/burmacolllin" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504939.png" alt="sannlynnhtun-coding" height="40" width="40" />
+</a>
+<a href="https://www.youtube.com/@SannLynnHtun" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" alt="sannlynnhtun-coding" height="40" width="40" />
+</a>
+<a href="https://www.youtube.com/@BurmaCollin" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/1834/1834342.png" alt="sannlynnhtun-coding" height="40" width="40" />
+</a>
+    
+    
+</div>
 
 <h2 align="center"> 🔭 Languages and Tools</h2>
 
