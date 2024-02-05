@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/> I'm Sann Lynn Htun</h1>
-<h3 align="center">🔥 C# / ASP.NET Core / Blazor Developer 🔥</h3>
+<h3 align="center">🔥 C# / ASP.NET Core / Blazor 🔥</h3>
 
 **About me**
 
