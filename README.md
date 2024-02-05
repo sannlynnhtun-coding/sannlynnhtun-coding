@@ -4,7 +4,7 @@
 **About me**
 
 - 💼 Team Leader at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
-- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
+- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
