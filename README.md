@@ -42,6 +42,10 @@
 ![Sann Lynn Htun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sannlynnhtun-coding&theme=github-compact)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sannlynnhtun-coding&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
 
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=nord)
+
+
 <table align="center">
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
