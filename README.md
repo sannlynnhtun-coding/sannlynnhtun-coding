@@ -43,7 +43,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=sannlynnhtun-coding&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=nord)
+![](https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=nord&row=2&column=5)
 
 
 <table align="center">
