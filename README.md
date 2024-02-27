@@ -6,11 +6,13 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> 
 
+---
 **About me**
 
 - 💼 Team Leader at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
 - 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
 
+---
 <h2  align="center">📫 Reach me on</h2>
 <div align="center">
 <a href="https://fb.com/sannlynnhtun-coding" target="blank">
