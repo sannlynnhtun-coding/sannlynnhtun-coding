@@ -1,5 +1,10 @@
-<h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/> I'm Sann Lynn Htun</h1>
-<h3 align="center">🔥 C# / ASP.NET Core / Blazor 🔥</h3>
+### Hello friends 👋, I am Sann Lynn Htun! <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/>
+🔥 C# / ASP.NET Core / Blazor 🔥
+
+---
+💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> 
 
 **About me**
 
