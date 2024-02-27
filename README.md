@@ -1,8 +1,9 @@
 ### Hello friends 👋, I am Sann Lynn Htun! <img src="https://cultofthepartyparrot.com/parrots/hd/headbangingparrot.gif" width="30" height="30"/>
-🔥 C# / ASP.NET Core / Blazor 🔥
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="csharp logo" width="40" height="40" /> C# / ASP.NET Core / Blazor <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="csharp logo" width="40" height="40" />
 
 ---
 💻 Main Tech Stack
+
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 
