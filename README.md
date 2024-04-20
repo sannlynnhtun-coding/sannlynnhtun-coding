@@ -61,6 +61,11 @@
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
     </tr>
     <tr>
+        <td>34.</td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-burmese-agriculture.vercel.app/">Banking Management System [C# .NET 8 Blazor Web Assembly]</a></td>
+    </tr>
+    <tr>
         <td>33.</td>
         <td><img src="https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png" width=50 height=50></td>
         <td><a target="_blank" href="https://blazor-wasm-burmese-agriculture.vercel.app/">Burmese Agriculture [C# .NET 8 Blazor Web Assembly]</a></td>
