@@ -1,7 +1,4 @@
 ### Hello friends 🤟, I am Sann Lynn Htun! ⚡
-![sannlynnhtun-coding | Profile](https://github.com/sannlynnhtun-coding/sannlynnhtun-coding/workflows/sannlynnhtun-coding%20%7C%20Profile/badge.svg)
-<img src="https://komarev.com/ghpvc/?username=sannlynnhtun-coding&style=flat-square&color=blue" alt=""/>
-![GitHub followers](https://img.shields.io/github/followers/sannlynnhtun-coding?label=Followers&style=social)
 🔥 C# / ASP.NET Core / Blazor 🔥
 
 ---
