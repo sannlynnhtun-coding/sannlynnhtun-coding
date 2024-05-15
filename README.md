@@ -137,8 +137,8 @@
     </tr>
     <tr>
         <td>20.</td>
-        <td><img src="https://blazor-wasm-food-delivery.netlify.app/assets/img/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-food-delivery.netlify.app/">Food Delivery [C# .NET 6 Blazor Web Assembly]</a></td>
+        <td><img src="https://blazor-wasm-food-delivery.vercel.app/assets/img/favicon.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-food-delivery.vercel.app/">Food Delivery [C# .NET 8 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
         <td>19.</td>
