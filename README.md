@@ -33,6 +33,7 @@
     <tr>
         <td>GTB EBMB</td>
         <td rowspan="3">2024 - Present</td>
+        <td rowspan="4">Senior Software Engineer / Team Lead</td>
     </tr>
     <tr>
         <td>Pay2U EBMB</td>
@@ -47,6 +48,7 @@
     <tr>
         <td>ABank EBMB</td>
         <td rowspan="7">2015 - 2022</td>
+        <td rowspan="4">Senior Software Engineer</td>
     </tr>
     <tr>
         <td>KBZ MICR Auto Synchronous</td>
@@ -59,6 +61,7 @@
     </tr>
     <tr>
         <td>ABank Core Banking</td>
+        <td rowspan="3">Junior Software Engineer</td>
     </tr>
     <tr>
         <td>MICR Cheque Printing</td>
