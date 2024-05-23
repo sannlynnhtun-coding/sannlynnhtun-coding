@@ -31,12 +31,12 @@
         <td>Year</td>
     </tr>
     <tr>
-        <td>GTB EBMB</td>
+        <td>GTB Wallet</td>
         <td rowspan="3">2024 - Present</td>
         <td rowspan="4">Senior Software Engineer / Team Lead</td>
     </tr>
     <tr>
-        <td>Pay2U EBMB</td>
+        <td>Pay2U Wallet / EBMB</td>
     </tr>
     <tr>
         <td>MFTB EBMB</td>
