@@ -57,8 +57,13 @@ He / Him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
-![Sann Lynn Htun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sannlynnhtun-coding&theme=github-compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=sannlynnhtun-coding&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=950)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sannlynnhtun-coding&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sannlynnhtun-coding&theme=github_dark)
+
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sannlynnhtun-coding)
 
 ## GitHub Trophies
 <div align="center">
