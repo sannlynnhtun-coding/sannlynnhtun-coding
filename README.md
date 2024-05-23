@@ -3,13 +3,24 @@
 
 > Hi friends, I'm Sann Lynn Htun. I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
 
+---
+**About me**
+
+- 💼 Team Lead at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
+- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
 
 ### 🌱🦖 My Work & Achievements
 
 - I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl). Recordings from Batch 4 will be available on the Telegram channel soon.
 - I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas).
 
+
 ---
+💻 Main Tech Stack
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+
 
 ### 🚀 **Projects** 🚀
 
@@ -58,17 +69,6 @@
 </table>
 
 
----
-💻 Main Tech Stack
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-
----
-**About me**
-
-- 💼 Team Lead at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
-- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
 
 <h2  align="center">📫 Reach me on</h2>
 <div align="center">
