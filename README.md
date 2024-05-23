@@ -1,9 +1,15 @@
-### Hello friends 🤟, I am Sann Lynn Htun! ⚡
+## Hello friends 🤟, I am Sann Lynn Htun! ⚡
 🔥 C# / ASP.NET Core / Blazor 🔥
 
 > Hi friends, I'm Sann Lynn Htun. I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
 
 ---
+
+
+### 💻 Main Tech Stack
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
+
 ### 🔥🤖 About me
 
 - 💼 Team Lead at [ACE Data Systems](https://acedatasystems.com/) [Sep 2015 - Present]
@@ -32,10 +38,6 @@
 
 
 ---
-💻 Main Tech Stack
-
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
 
 
 ### 🚀 **Projects** 🚀
