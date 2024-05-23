@@ -3,6 +3,14 @@
 
 > Hi friends, I'm Sann Lynn Htun. I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
 
+
+### 😄 Pronouns
+He / Him
+
+### 🌱 What do I do and What have I done? 
+
+- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches.
+
 ---
 💻 Main Tech Stack
 
