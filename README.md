@@ -10,6 +10,55 @@
 - I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas).
 
 ---
+
+### 🚀 **Projects** 🚀
+
+
+<table>
+    <tr>
+        <td>Name</td>
+        <td>Year</td>
+    </tr>
+    <tr>
+        <td>GTB EBMB</td>
+        <td rowspan="3">2024 - Present</td>
+    </tr>
+    <tr>
+        <td>Pay2U EBMB</td>
+    </tr>
+    <tr>
+        <td>MFTB EBMB</td>
+    </tr>
+    <tr>
+        <td>GBank EBMB</td>
+        <td>2022 - 2023</td>
+    </tr>
+    <tr>
+        <td>ABank EBMB</td>
+        <td rowspan="7">2015 - 2022</td>
+    </tr>
+    <tr>
+        <td>KBZ MICR Auto Synchronous</td>
+    </tr>
+    <tr>
+        <td>PV Microfinance</td>
+    </tr>
+    <tr>
+        <td>Inno Capital Microfinance</td>
+    </tr>
+    <tr>
+        <td>ABank Core Banking</td>
+    </tr>
+    <tr>
+        <td>MICR Cheque Printing</td>
+    </tr>
+    <tr>
+        <td>CHDB Mortgage</td>
+    </tr>
+</table>
+
+
+---
 💻 Main Tech Stack
 
 
@@ -52,11 +101,15 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&hide=javascript,html,css&layout=compact&theme=github_dark)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sannlynnhtun-coding&theme=github_dark)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sannlynnhtun-coding&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
 
 
 ## GitHub Trophies
