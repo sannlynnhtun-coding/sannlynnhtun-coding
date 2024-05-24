@@ -47,16 +47,11 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1834/1834342.png" alt="sannlynnhtun-coding" height="40" width="40" />
 
 
----
-
-
-### 🚀 Projects
-
-
 <table>
     <tr>
-        <td>Name</td>
-        <td>Year</td>
+        <td>🚀 Project Name</td>
+        <td>⭐ Year</td>
+        <td>🤖 Position</td>
     </tr>
     <tr>
         <td>GTB Wallet</td>
@@ -98,13 +93,6 @@
         <td>CHDB Mortgage</td>
     </tr>
 </table>
-
-
-
-
-    
-    
-</div>
 
 
 
