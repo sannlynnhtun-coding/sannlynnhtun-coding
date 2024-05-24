@@ -50,7 +50,7 @@
 ---
 
 
-### 🚀 **Projects** 🚀
+### 🚀 Projects
 
 
 <table>
