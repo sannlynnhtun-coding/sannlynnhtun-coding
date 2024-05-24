@@ -71,22 +71,23 @@
         <td>2022 - 2023</td>
     </tr>
     <tr>
-        <td>ABank EBMB</td>
+        <td>KBZ MICR Auto Synchronous</td>
         <td rowspan="7">2015 - 2022</td>
-        <td rowspan="4">Senior Software Engineer</td>
+        <td rowspan="2">Senior Software Engineer</td>
     </tr>
     <tr>
-        <td>KBZ MICR Auto Synchronous</td>
+        <td>ABank EBMB</td>
     </tr>
     <tr>
         <td>PV Microfinance</td>
+        <td rowspan="2">Mid-Level Developer</td>
     </tr>
     <tr>
         <td>Inno Capital Microfinance</td>
     </tr>
     <tr>
         <td>ABank Core Banking</td>
-        <td rowspan="3">Junior Software Engineer</td>
+        <td rowspan="3">Junior Developer</td>
     </tr>
     <tr>
         <td>MICR Cheque Printing</td>
