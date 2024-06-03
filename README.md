@@ -107,11 +107,7 @@
   <br>
 </p>
 
-<div align="center">
-    
-![](https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=nord&row=2&column=5)
 
-</div>
 
 
 
