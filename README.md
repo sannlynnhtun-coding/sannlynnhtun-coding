@@ -27,7 +27,7 @@
 
 ### 🌱🦖 My Work & Achievements
 
-- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl). Recordings from Batch 4 will be available on the Telegram channel soon.
+- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl). The Telegram channel for [Batch 4](https://t.me/+fAXU_qJ1aLpmZjc1) is available, but the ongoing teaching will be completed by the end of next month (2024 July).
 - I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas).
 
 ### 📫 Reach me on
