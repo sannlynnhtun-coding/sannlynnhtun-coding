@@ -5,6 +5,8 @@
 
 ---
 
+ ![sannlynnhtun-coding's Stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=gotham&show_icons=true&hide_border=true&count_private=true)
+ ![sannlynnhtun-coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=gotham&hide_border=true)
 
 ### 💻 Main Tech Stack
 
@@ -277,15 +279,6 @@
         <td><a target="_blank" href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
     </tr>
 </table>
-
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sannlynnhtun-coding&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-</p>
 
 
 
