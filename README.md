@@ -5,8 +5,11 @@
 
 ---
 
- ![sannlynnhtun-coding's Stats](https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=gotham&show_icons=true&hide_border=true&count_private=true)
- ![sannlynnhtun-coding's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=gotham&hide_border=true)
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=gotham&show_icons=true&hide_border=true&count_private=true">
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=gotham&hide_border=true">
+</p>
+
 
 ### 💻 Main Tech Stack
 
