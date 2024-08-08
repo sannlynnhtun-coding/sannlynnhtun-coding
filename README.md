@@ -6,8 +6,8 @@
 ---
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
+  <img height="30%" width="30%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img height="30%" width="30%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
 </p>
 
 
