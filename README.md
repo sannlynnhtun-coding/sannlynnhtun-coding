@@ -109,7 +109,7 @@
     <tr>
         <td>34.</td>
         <td><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-burmese-agriculture.vercel.app/">Banking Management System [C# .NET 8 Blazor Web Assembly]</a></td>
+        <td><a target="_blank" href="https://blazor-wasm-banking-management-system.vercel.app/">Banking Management System [C# .NET 8 Blazor Web Assembly]</a></td>
     </tr>
     <tr>
         <td>33.</td>
