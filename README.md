@@ -1,4 +1,4 @@
-## Hello friends 🤟, I am Sann Lynn Htun! ⚡
+## Hello friends 🤟, I am Sann Lynn Htun! We live. We code. We yoke.⚡
 🔥 C# / ASP.NET Core / Blazor 🔥
 
 > I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
@@ -36,8 +36,9 @@
 
 ### 🌱🦖 My Work & Achievements
 
-- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl), which was completed on April 24, 2024. The Telegram channel for [Batch 4](https://t.me/+fAXU_qJ1aLpmZjc1) is available, and it was completed on September 3, 2024. Ongoing teaching will conclude by the end of next month (August 2024).
-- I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas).
+- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl), which was completed on April 24, 2024. The Telegram channel for [Batch 4](https://t.me/+fAXU_qJ1aLpmZjc1) was completed on September 3, 2024. Batch 5 started on September 7, 2024, and is currently ongoing.
+
+- I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas). 
 
 ### 📫 Reach me on
 <a href="https://fb.com/sannlynnhtun-coding" target="blank">
