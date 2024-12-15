@@ -1,7 +1,7 @@
 ## Hello friends 🤟, I am Sann Lynn Htun! We live. We code. We yoke.⚡
 🔥 C# / ASP.NET Core / Blazor 🔥
 
-> I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
+> I am a Senior Software Engineer based in Yangon, Myanmar, with experience leading a team on multiple projects at ACE Data Systems.
 
 ---
 
