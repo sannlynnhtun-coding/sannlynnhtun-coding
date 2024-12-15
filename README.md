@@ -113,7 +113,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table align="center" style="flex: 1; min-width: 300px; margin: 10px;">
         <tr>
-            <td colspan="5"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+            <td colspan="5"><h3 align="center">🚀 Projects 🚀</h3></td>
         </tr>
         <tr>
             <td><a target="_blank" href="https://blazor-wasm-banking-management-system.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></a></td>
