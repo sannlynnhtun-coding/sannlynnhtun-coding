@@ -5,15 +5,23 @@
 
 ---
 
-<p align="center">
-  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
-</p>
+## Nightly Tea Time - Weekly Saturday & Sunday
 
-<p align="center">
-<a href="https://app.daily.dev/sannlynnhtun"><img src="https://api.daily.dev/devcards/v2/kA3Cfez0awag3zHfuQNo2.png?type=wide&r=cxx" width="652" alt="Sann Lynn Htun's Dev Card"/></a>
-</p>
+**For the Myanmar Software Engineer Community**
 
+**Meeting Link:** <a href="meet.google.com/tqb-pxmd-thv">meet.google.com/tqb-pxmd-thv</a>
+> **Save this meeting link for easy access.** We'll update it if needed.
+
+**Here's what you can expect:**
+
+* **Join us every Saturday and Sunday at 9:00 PM Myanmar Standard Time for our Nightly Tea Time!**
+* **This is a great opportunity for young professionals and juniors to gain fresh perspectives and insights.**
+* **We have senior professionals from various fields who will be happy to answer your questions.**
+* **Seniors will also share their experiences and knowledge, providing valuable learning opportunities for everyone.**
+* **Don't miss out on this chance to learn and connect with experienced professionals!** 
+* **Join us for a stimulating discussion and a warm cup of tea!**
+
+---
 
 ### 💻 Main Tech Stack
 
@@ -146,7 +154,14 @@
     </table>
 </div>
 
+---
 
+<p align="center">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
+</p>
+
+---
 
 
 
