@@ -119,35 +119,36 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table align="center" style="flex: 1; min-width: 300px; margin: 10px;">
         <tr>
-            <td colspan="5"><h3 align="center">🚀 Projects 🚀</h3></td>
-        </tr>
-        <tr>
             <td><a target="_blank" href="https://blazor-wasm-banking-management-system.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></a></td>
             <td><a target="_blank" href="https://blazor-wasm-burmese-agriculture.vercel.app/"><img src="https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png" width=50 height=50></a></td>
             <td><a target="_blank" href="https://blazor-wasm-burmese-recipes.vercel.app/"><img src="https://blazor-wasm-burmese-recipes.vercel.app/favicon.png" width=50 height=50></a></td>
             <td><a target="_blank" href="https://blazor-wasm-incompatible-food.vercel.app/"><img src="https://blazor-wasm-incompatible-food.vercel.app/favicon.jpg" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-art-gallery.vercel.app/"><img src="https://blazor-wasm-art-gallery.vercel.app/favicon.png" width=50 height=50></a></td>
-        </tr>
-        <tr>
-            <td><a target="_blank" href="https://blazor-wasm-snakes.vercel.app/"><img src="https://blazor-wasm-snakes.vercel.app/favicon.png" width=50 height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-art-gallery.vercel.app/"><img src="https://blazor-wasm-art-gallery.vercel.app/favicon.png" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-snakes.vercel.app/"><img src="https://blazor-wasm-snakes.vercel.app/favicon.png" width=50 
+height=50></a></td>
             <td><a target="_blank" href="https://blazor-wasm-myanmar-months.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/9578/9578862.png" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-birds.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-bagan-map.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=50 height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-birds.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-bagan-map.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=50 
+height=50></a></td>
             <td><a target="_blank" href="https://blazor-wasm-movie-ticket-online.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/3270/3270184.png" width=50 height=50></a></td>
         </tr>
         <tr>
-            <td><a target="_blank" href="https://blazor-wasm-mini-pos-v2.netlify.app/"><img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-tvflix.netlify.app/"><img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-git-finder.netlify.app/"><img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-weather-v2.netlify.app/"><img src="https://blazor-wasm-weather-v2.netlify.app/favicon.svg" width=50 height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-mini-pos-v2.netlify.app/"><img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-tvflix.netlify.app/"><img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-git-finder.netlify.app/"><img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-weather-v2.netlify.app/"><img src="https://blazor-wasm-weather-v2.netlify.app/favicon.svg" width=50 
+height=50></a></td>
             <td><a target="_blank" href="https://melodic-journeys-of-collin.netlify.app/"><img src="https://melodic-journeys-of-collin.netlify.app/assets/img/logo.svg" width=50 height=50></a></td>
-        </tr>
-        <tr>
             <td><a target="_blank" href="https://blazor-wasm-food-delivery.vercel.app/"><img src="https://blazor-wasm-food-delivery.vercel.app/assets/img/favicon.png" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-pick-a-pile.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=50 height=50></a></td>
-            <td><a target="_blank" href="https://blazor-wasm-work-with-github-api.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=50 height=50></a></td>
-            <td></td> <!-- Empty cell to maintain the structure -->
-            <td></td> <!-- Empty cell to maintain the structure -->
+            <td><a target="_blank" href="https://blazor-wasm-pick-a-pile.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=50 
+height=50></a></td>
+            <td><a target="_blank" href="https://blazor-wasm-work-with-github-api.netlify.app/"><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png"
+width=50 height=50></a></td>
         </tr>
     </table>
 </div>
