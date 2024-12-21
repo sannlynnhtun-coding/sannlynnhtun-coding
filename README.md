@@ -47,7 +47,7 @@
 - I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas). 
 
 ### 📫 Reach me on
-<a href="https://fb.com/sannlynnhtun-coding" target="blank">
+<a href="https://www.facebook.com/sannlynnhtun.developer/" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
 </a>
 <a href="https://linkedin.com/in/sannlynnhtun" target="blank">
