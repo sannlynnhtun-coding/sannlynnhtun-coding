@@ -63,58 +63,7 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/1834/1834342.png" alt="sannlynnhtun-coding" height="40" width="40" />
 </a>
 
-### 🦾 Projects
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <table style="flex: 1; min-width: 300px; margin: 10px;">
-        <tr>
-            <td>🚀 Project Name</td>
-            <td>⭐ Year</td>
-            <td>🤖 Position</td>
-        </tr>
-        <tr>
-            <td>GTB Wallet</td>
-            <td rowspan="3">2024 - Present</td>
-            <td rowspan="4">Senior Software Engineer / Team Lead</td>
-        </tr>
-        <tr>
-            <td>Pay2U Wallet / EBMB</td>
-        </tr>
-        <tr>
-            <td>MFTB EBMB</td>
-        </tr>
-        <tr>
-            <td>GBank EBMB</td>
-            <td>2022 - 2023</td>
-        </tr>
-        <tr>
-            <td>KBZ MICR Auto Synchronous</td>
-            <td rowspan="7">2015 - 2022</td>
-            <td rowspan="2">Senior Software Engineer</td>
-        </tr>
-        <tr>
-            <td>ABank EBMB</td>
-        </tr>
-        <tr>
-            <td>PV Microfinance</td>
-            <td rowspan="2">Mid-Level Developer</td>
-        </tr>
-        <tr>
-            <td>Inno Capital Microfinance</td>
-        </tr>
-        <tr>
-            <td>ABank Core Banking</td>
-            <td rowspan="3">Junior Developer</td>
-        </tr>
-        <tr>
-            <td>MICR Cheque Printing</td>
-        </tr>
-        <tr>
-            <td>CHDB Mortgage</td>
-        </tr>
-    </table>
-</div>
+### 🦾 Mini Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table style="flex: 1; min-width: 300px; margin: 10px;">
