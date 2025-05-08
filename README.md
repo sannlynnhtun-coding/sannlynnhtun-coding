@@ -3,7 +3,7 @@
 
 > I am a Senior Software Engineer based in Yangon, Myanmar, with experience leading a team on multiple projects at ACE Data Systems.
 
-## Nightly Tea Time - Weekly Saturday & Sunday
+## Nightly Tea Time - Weekly Friday & Saturday
 
 **For the Myanmar Software Engineer Community**
 
