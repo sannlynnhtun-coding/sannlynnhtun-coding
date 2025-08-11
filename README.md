@@ -109,7 +109,12 @@
 <table align="center">
     <tr>
         <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
-    </tr
+    </tr>
+    <tr>
+        <td>35.</td>
+        <td><img src="https://blazor-wasm-dream-dictionary.vercel.app/favicon.png" width=50 height=50></td>
+        <td><a target="_blank" href="https://blazor-wasm-dream-dictionary.vercel.app/">Dream Dictionary [C# .NET 8 Blazor Web Assembly]</a></td>
+    </tr>
     <tr>
         <td>35.</td>
         <td><img src="https://blazor-wasm-phayarsar.vercel.app/favicon.png" width=50 height=50></td>
