@@ -1,15 +1,11 @@
 ## Hello friends 🤟, I am Sann Lynn Htun! ⚡
 🔥 C# / ASP.NET Core / Blazor 🔥
 
-> I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
-
----
+I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
 
 <p align="center">
   <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
 </p>
-
 
 ### 💻 Main Tech Stack
 
