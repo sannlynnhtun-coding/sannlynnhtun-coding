@@ -104,7 +104,7 @@ I am a Backend developer from Yangon, Myanmar. I am currently working on multipl
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table align="center">
     <tr>
-        <td colspan="3"><h3 align="center">🚀 **Projects** 🚀</h3></td>
+        <td colspan="3"><h3 align="center">🚀 Projects 🚀</h3></td>
     </tr>
     <tr>
         <td>36.</td>
