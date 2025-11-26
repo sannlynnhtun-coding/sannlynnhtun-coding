@@ -1,315 +1,128 @@
-## Hello friends 🤟, I am Sann Lynn Htun! ⚡
-🔥 C# / ASP.NET Core / Blazor 🔥
+<div align="center">
 
-I am a Backend developer from Yangon, Myanmar. I am currently working on multiple projects at ACE Data Systems as a Team Leader.
+# Hi there, I'm Sann Lynn Htun! 👋
 
-<p align="center">
-  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
-</p>
+### Senior Software Engineer | Team Lead | .NET Ecosystem Specialist
 
-### 💻 Main Tech Stack
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/sannlynnhtun)](https://linkedin.com/in/sannlynnhtun)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/sannlynnhtun-coding)](https://fb.com/sannlynnhtun-coding)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@SannLynnHtun)](https://www.youtube.com/@SannLynnHtun)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+SnO5wIMP8QRhYmZl)](https://t.me/+SnO5wIMP8QRhYmZl)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" alt="JavaScript logo" width="40" height="40" /> 
-
-### 🔭 Languages and Tools</h2>
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-5C2D91?style=for-the-badge&logo=blazor&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔥🤖 About me
-
-- 💼 Team Lead at [ACE Data Systems](https://acedatasystems.com/) [Feb 2015 - Present]
-- 💼 Senior Software Engineer (Part-time) at [Techno Bright Innovation Group Co.Ltd](https://www.facebook.com/TechnoBrightInnovationGroup) [Oct 2017 - Nov 2022]
-
-### 🌱🦖 My Work & Achievements
-
-- I've been teaching a free class for a while now, focusing on C# .NET development. There have already been four batches. Join [my Telegram channel](https://t.me/+SnO5wIMP8QRhYmZl) for access to recordings from [Batch 3](https://t.me/+SnO5wIMP8QRhYmZl), which was completed on April 24, 2024. The Telegram channel for [Batch 4](https://t.me/+fAXU_qJ1aLpmZjc1) is available, and it was completed on September 3, 2024. Ongoing teaching will conclude by the end of next month (August 2024).
-- I created an open-source project called Burma Project Ideas on GitHub. It's designed to help junior developers (from Burma) build their first projects. You can check it out [here](https://github.com/sannlynnhtun-coding/burma-project-ideas).
-
-### 📫 Reach me on
-<a href="https://fb.com/sannlynnhtun-coding" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504903.png" alt="burma.colllin" height="40" width="40" />
-</a>
-<a href="https://linkedin.com/in/sannlynnhtun" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-<a href="https://soundcloud.com/burmacolllin/tracks" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504939.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/@SannLynnHtun" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2504/2504965.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-<a href="https://www.youtube.com/@BurmaCollin" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1834/1834342.png" alt="sannlynnhtun-coding" height="40" width="40" />
-</a>
-
-### 🦾 Projects
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <table style="flex: 1; min-width: 300px; margin: 10px;">
-        <tr>
-            <td>🚀 Project Name</td>
-            <td>⭐ Year</td>
-            <td>🤖 Position</td>
-        </tr>
-        <tr>
-            <td>GTB Wallet</td>
-            <td rowspan="3">2024 - Present</td>
-            <td rowspan="4">Senior Software Engineer / Team Lead</td>
-        </tr>
-        <tr>
-            <td>Pay2U Wallet / EBMB</td>
-        </tr>
-        <tr>
-            <td>MFTB EBMB</td>
-        </tr>
-        <tr>
-            <td>GBank EBMB</td>
-            <td>2022 - 2023</td>
-        </tr>
-        <tr>
-            <td>KBZ MICR Auto Synchronous</td>
-            <td rowspan="7">2015 - 2022</td>
-            <td rowspan="2">Senior Software Engineer</td>
-        </tr>
-        <tr>
-            <td>ABank EBMB</td>
-        </tr>
-        <tr>
-            <td>PV Microfinance</td>
-            <td rowspan="2">Mid-Level Developer</td>
-        </tr>
-        <tr>
-            <td>Inno Capital Microfinance</td>
-        </tr>
-        <tr>
-            <td>ABank Core Banking</td>
-            <td rowspan="3">Junior Developer</td>
-        </tr>
-        <tr>
-            <td>MICR Cheque Printing</td>
-        </tr>
-        <tr>
-            <td>CHDB Mortgage</td>
-        </tr>
-    </table>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-<table align="center">
-    <tr>
-        <td colspan="3"><h3 align="center">🚀 Projects 🚀</h3></td>
-    </tr>
-    <tr>
-        <td>36.</td>
-        <td><img src="https://blazor-wasm-dream-dictionary.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-dream-dictionary.vercel.app/">Dream Dictionary [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>35.</td>
-        <td><img src="https://blazor-wasm-phayarsar.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-phayarsar.vercel.app/">Phayar Sar [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>34.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-banking-management-system.vercel.app/">Banking Management System [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>33.</td>
-        <td><img src="https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-burmese-agriculture.vercel.app/">Burmese Agriculture [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>32.</td>
-        <td><img src="https://blazor-wasm-burmese-recipes.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-burmese-recipes.vercel.app/">Burmese Recipes [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>32.</td>
-        <td><img src="https://blazor-wasm-incompatible-food.vercel.app/favicon.jpg" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-incompatible-food.vercel.app/">Incompatible Food [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>31.</td>
-        <td><img src="https://blazor-wasm-art-gallery.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-art-gallery.vercel.app/">Art Gallery [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>30.</td>
-        <td><img src="https://blazor-wasm-snakes.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-snakes.vercel.app/">Snakes [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>29.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/9578/9578862.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-myanmar-months.netlify.app/">Myanmar Months [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>28.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-birds.netlify.app/">Birds [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>27.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-bagan-map.netlify.app/">Bagan Map [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>26.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/3270/3270184.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-movie-ticket-online.netlify.app/">Movie Tickets Online Booking [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>25.</td>
-        <td><img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-mini-pos-v2.netlify.app/">Mini POS v2 [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>24.</td>
-        <td><img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-tvflix.netlify.app/">Tvflix [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>23.</td>
-        <td><img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-git-finder.netlify.app/">GitFinder [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>22.</td>
-        <td><img src="https://blazor-wasm-weather-v2.netlify.app/favicon.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-weather-v2.netlify.app/">Weather App v2 [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>21.</td>
-        <td><img src="https://melodic-journeys-of-collin.vercel.app/assets/img/logo.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://melodic-journeys-of-collin.vercel.app/">Melodic Journeys Of Collin [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>20.</td>
-        <td><img src="https://blazor-wasm-food-delivery.vercel.app/assets/img/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-food-delivery.vercel.app/">Food Delivery [C# .NET 8 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>19.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-pick-a-pile.netlify.app/">Pick A Pile [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>18.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-work-with-github-api.netlify.app/">Work With Github Api [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>17.</td>
-        <td><img src="https://blazor-wasm-zodiac.netlify.app/assets/images/logo.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-zodiac.netlify.app/">Zodiac [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>16.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-budget.netlify.app/">Budget App [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>15.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-calculator.netlify.app/">Calculator [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>14.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-roll-dice.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>13.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/1055/1055804.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-dice-roll.netlify.app/">Roll Dice [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>12.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-expense-tracker.netlify.app/">Expense Tracker [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>11.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-memory-card-game.netlify.app/">Memory Card Game [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>10.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-todolist.netlify.app/">To Do List [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>9.</td>
-        <td><img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://svelte-dotolist-proj.vercel.app/">To Do List [Svelte]</a></td>
-    </tr>
-    <tr>
-        <td>8.</td>
-        <td><img src="https://open-meteo.com/favicon.ico" width=50 height=50></td>
-        <td><a target="_blank" href="https://blazor-wasm-weather-app.netlify.app/">Weather API (Open Meteo) [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>7.</td>
-        <td><img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://mysta-pile.herokuapp.com/">Mysta - Astrology & Numerology [C# .NET 6 Blazor Server]</a></td>
-    </tr>
-    <tr>
-        <td>6.</td>
-        <td><img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://openmapweather-blazor-server.herokuapp.com/">Open Map Weather [C# .NET 6 Blazor Server]</a></td>
-    </tr>
-    <tr>
-        <td>5.</td>
-        <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://mintheinkha-weeklybaydin.herokuapp.com/">Min Thein Kha (Weekly Bay Din) [C# .NET 6 Blazor Server]</a></td>
-    </tr>
-    <tr>
-        <td>4.</td>
-        <td><img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://mintheinkha-lathtaukbaydin.netlify.app/">Min Thein Kha (Lat Htauk Bay Din) [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>3.</td>
-        <td><img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=50 height=50></td>
-        <td><a target="_blank" href="https://bolby-blazor-wasm.netlify.app/">Bolby (Portfolio Project) [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-    <tr>
-        <td>2.</td>
-        <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://crypto-currency-tracker-v2.netlify.app/">Crypto Currency Tracker v2 [C# .NET 6 Blazor Web Assembly]</a></td>
-    <tr>
-    <tr>
-        <td>1.</td>
-        <td><img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=50 height=50></td>
-        <td><a target="_blank" href="https://crypto-currency-tracker-one.netlify.app">Crypto Currency Tracker v1 [C# .NET 6 Blazor Web Assembly]</a></td>
-    </tr>
-</table>
+---
+
+## 👨‍💻 Professional Summary
+
+I am a dedicated **Full Stack Developer** and **Team Lead** based in **Yangon, Myanmar**, with over **10 years of experience** in the software industry. My expertise lies in architecting and building robust financial and banking solutions using the **.NET ecosystem** (ASP.NET Core MVC, Blazor, Web API).
+
+Currently, I lead development teams at **[ACE Data Systems](https://acedatasystems.com/)**, overseeing projects ranging from Core Banking Systems to Digital Wallets. I am also passionate about education and open-source, actively mentoring junior developers through free classes and community initiatives.
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Tools & IDEs** | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
 </div>
 
+---
 
+## 💼 Work Experience
 
+| Period | Role | Company | Key Projects |
+|:-------|:-----|:--------|:-------------|
+| **Feb 2015 - Present** | **Team Lead / Senior Software Engineer** | [ACE Data Systems](https://acedatasystems.com/) | • GTB Wallet<br>• Pay2U Wallet / EBMB<br>• MFTB EBMB<br>• GBank EBMB<br>• KBZ MICR Auto Synchronous |
+| **April 2025 - Present** | **Instructor** | [Technortal](https://linkedin.com/company/technortal/) | • Teaching & Mentoring |
+| **Nov 2024 - Feb 2025** | **Instructor** | [ACE Inspiration](https://www.linkedin.com/school/ace-inspiration) | • Teaching & Mentoring |
+| **Oct 2017 - Nov 2022** | **Senior Software Engineer (Part-time)** | [Techno Bright Innovation Group](https://www.facebook.com/TechnoBrightInnovationGroup) | • Enterprise Solutions<br>• Custom Software Development |
 
+---
 
+## 🌱 Teaching & Community Contributions
 
+I believe in giving back to the community. Here are some of my initiatives:
 
+*   **Mentor at Code2Career Hackathon (Nov 2025)**: Mentored participants at the hackathon organized by **Myanmar Japan Center (MJC)** (JICA funded), which serves as a hub for business information networks contributing to strengthening economic relations between Japan and Myanmar.
+*   **Mentor at Venture Base Hackathon (Oct 2025)**: Mentored participants at the Venture Base Hackathon.
+*   **C# .NET Training Classes**: I have successfully conducted multiple batches of free training for aspiring developers.
+    *   **Batch 3**: Completed April 24, 2024.
+    *   **Batch 4**: Completed September 3, 2024.
+    *   **Batch 5**: Started September 7, 2024 - Ends January 30, 2025.
+*   **[Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas)**: An open-source project designed to provide project ideas and guidance for junior developers in Myanmar to build their portfolios. (Started: Oct 5, 2023)
+*   **Developer Tea Talk**: A knowledge-sharing initiative for the developer community. (Started: August 31, 2023)
+*   **One Project One Month**: A challenge to encourage consistent building and learning. (Started: March 1, 2024)
 
+---
 
+## 🚀 Featured Projects Portfolio
 
+A collection of my web applications, mostly built with **Blazor WebAssembly** and **.NET**.
 
+<details open>
+<summary><b>Click to collapse/expand project list</b></summary>
+<br>
 
+| # | Icon | Project Name & Link | Tech Stack |
+|:--|:----:|:--------------------|:-----------|
+| 36 | <img src="https://blazor-wasm-dream-dictionary.vercel.app/favicon.png" width=40> | [**Dream Dictionary**](https://blazor-wasm-dream-dictionary.vercel.app/) | .NET 8 Blazor WASM |
+| 35 | <img src="https://blazor-wasm-phayarsar.vercel.app/favicon.png" width=40> | [**Phayar Sar**](https://blazor-wasm-phayarsar.vercel.app/) | .NET 8 Blazor WASM |
+| 34 | <img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=40> | [**Banking Management System**](https://blazor-wasm-banking-management-system.vercel.app/) | .NET 8 Blazor WASM |
+| 33 | <img src="https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png" width=40> | [**Burmese Agriculture**](https://blazor-wasm-burmese-agriculture.vercel.app/) | .NET 8 Blazor WASM |
+| 32 | <img src="https://blazor-wasm-burmese-recipes.vercel.app/favicon.png" width=40> | [**Burmese Recipes**](https://blazor-wasm-burmese-recipes.vercel.app/) | .NET 8 Blazor WASM |
+| 31 | <img src="https://blazor-wasm-incompatible-food.vercel.app/favicon.jpg" width=40> | [**Incompatible Food**](https://blazor-wasm-incompatible-food.vercel.app/) | .NET 8 Blazor WASM |
+| 30 | <img src="https://blazor-wasm-art-gallery.vercel.app/favicon.png" width=40> | [**Art Gallery**](https://blazor-wasm-art-gallery.vercel.app/) | .NET 8 Blazor WASM |
+| 29 | <img src="https://blazor-wasm-snakes.vercel.app/favicon.png" width=40> | [**Snakes Game**](https://blazor-wasm-snakes.vercel.app/) | .NET 8 Blazor WASM |
+| 28 | <img src="https://cdn-icons-png.flaticon.com/512/9578/9578862.png" width=40> | [**Myanmar Months**](https://blazor-wasm-myanmar-months.netlify.app/) | .NET 6 Blazor WASM |
+| 27 | <img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=40> | [**Birds Directory**](https://blazor-wasm-birds.netlify.app/) | .NET 6 Blazor WASM |
+| 26 | <img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=40> | [**Bagan Map**](https://blazor-wasm-bagan-map.netlify.app/) | .NET 6 Blazor WASM |
+| 25 | <img src="https://cdn-icons-png.flaticon.com/512/3270/3270184.png" width=40> | [**Movie Tickets Booking**](https://blazor-wasm-movie-ticket-online.netlify.app/) | .NET 6 Blazor WASM |
+| 24 | <img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=40> | [**Mini POS v2**](https://blazor-wasm-mini-pos-v2.netlify.app/) | .NET 6 Blazor WASM |
+| 23 | <img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=40> | [**Tvflix**](https://blazor-wasm-tvflix.netlify.app/) | .NET 6 Blazor WASM |
+| 22 | <img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=40> | [**GitFinder**](https://blazor-wasm-git-finder.netlify.app/) | .NET 6 Blazor WASM |
+| 21 | <img src="https://blazor-wasm-weather-v2.netlify.app/favicon.svg" width=40> | [**Weather App v2**](https://blazor-wasm-weather-v2.netlify.app/) | .NET 6 Blazor WASM |
+| 20 | <img src="https://melodic-journeys-of-collin.vercel.app/assets/img/logo.svg" width=40> | [**Melodic Journeys**](https://melodic-journeys-of-collin.vercel.app/) | .NET 8 Blazor WASM |
+| 19 | <img src="https://blazor-wasm-food-delivery.vercel.app/assets/img/favicon.png" width=40> | [**Food Delivery**](https://blazor-wasm-food-delivery.vercel.app/) | .NET 8 Blazor WASM |
+| 18 | <img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=40> | [**Pick A Pile**](https://blazor-wasm-pick-a-pile.netlify.app/) | .NET 6 Blazor WASM |
+| 17 | <img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=40> | [**GitHub API Integration**](https://blazor-wasm-work-with-github-api.netlify.app/) | .NET 6 Blazor WASM |
+| 16 | <img src="https://blazor-wasm-zodiac.netlify.app/assets/images/logo.svg" width=40> | [**Zodiac**](https://blazor-wasm-zodiac.netlify.app/) | .NET 6 Blazor WASM |
+| 15 | <img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" width=40> | [**Budget App**](https://blazor-wasm-budget.netlify.app/) | .NET 6 Blazor WASM |
+| 14 | <img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=40> | [**Calculator**](https://blazor-wasm-calculator.netlify.app/) | .NET 6 Blazor WASM |
+| 13 | <img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=40> | [**Roll Dice**](https://blazor-wasm-roll-dice.netlify.app/) | .NET 6 Blazor WASM |
+| 12 | <img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=40> | [**Expense Tracker**](https://blazor-wasm-expense-tracker.netlify.app/) | .NET 6 Blazor WASM |
+| 11 | <img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=40> | [**Memory Card Game**](https://blazor-wasm-memory-card-game.netlify.app/) | .NET 6 Blazor WASM |
+| 10 | <img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=40> | [**To Do List**](https://blazor-wasm-todolist.netlify.app/) | .NET 6 Blazor WASM |
+| 9 | <img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=40> | [**Svelte To Do List**](https://svelte-dotolist-proj.vercel.app/) | Svelte |
+| 8 | <img src="https://open-meteo.com/favicon.ico" width=40> | [**Open Meteo Weather**](https://blazor-wasm-weather-app.netlify.app/) | .NET 6 Blazor WASM |
+| 7 | <img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=40> | [**Mysta - Astrology**](https://mysta-pile.herokuapp.com/) | Blazor Server |
+| 6 | <img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=40> | [**Open Map Weather**](https://openmapweather-blazor-server.herokuapp.com/) | Blazor Server |
+| 5 | <img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=40> | [**Min Thein Kha (Weekly)**](https://mintheinkha-weeklybaydin.herokuapp.com/) | Blazor Server |
+| 4 | <img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=40> | [**Min Thein Kha (Lat Htauk)**](https://mintheinkha-lathtaukbaydin.netlify.app/) | Blazor WASM |
+| 3 | <img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=40> | [**Bolby Portfolio**](https://bolby-blazor-wasm.netlify.app/) | Blazor WASM |
+| 2 | <img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=40> | [**Crypto Tracker v2**](https://crypto-currency-tracker-v2.netlify.app/) | Blazor WASM |
+| 1 | <img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=40> | [**Crypto Tracker v1**](https://crypto-currency-tracker-one.netlify.app) | Blazor WASM |
 
+</details>
 
+---
 
+<div align="center">
 
+### 📊 GitHub Statistics
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Sann Lynn Htun's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 
+<br><br>
 
+<a href="https://visitorbadge.io/status?path=sannlynnhtun-coding"><img src="https://api.visitorbadge.io/api/visitors?path=sannlynnhtun-coding&countColor=%23263759" /></a>
 
+</div>
