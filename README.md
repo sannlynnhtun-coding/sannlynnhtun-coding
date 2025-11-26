@@ -59,7 +59,11 @@ I believe in giving back to the community. Here are some of my initiatives:
     *   **Batch 5**: Started September 7, 2024 - Ends January 30, 2025.
 *   **[Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas)**: An open-source project designed to provide project ideas and guidance for junior developers in Myanmar to build their portfolios. (Started: Oct 5, 2023)
 *   **Developer Tea Talk**: A knowledge-sharing initiative for the developer community. (Started: August 31, 2023)
-*   **One Project One Month**: A challenge to encourage consistent building and learning. (Started: March 1, 2024)
+*   **[One Project One Month](https://github.com/one-project-one-month)**: Delivering complete software projects in one month, covering coding, database design, UI/UX, backend development, and teamwork from planning to deployment. (Started: March 1, 2024)
+*   **[Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects)**: A curated collection of Blazor projects designed for junior developers to learn and practice.
+*   **[C# Course (.NET 8)](https://github.com/sannlynnhtun-coding/csharp-course)**: A comprehensive learning path for .NET developers covering C#, ASP.NET Core, Blazor, and more. (Started: May 8, 2024)
+*   **[C# Examples](https://github.com/sannlynnhtun-coding/csharp-examples)**: A collection of C# and .NET examples ranging from console apps to web APIs and Blazor, designed to help junior developers understand core concepts. (Started: Sep 12, 2024)
+*   **[.NET Developer Guide](https://sannlynnhtun.gitbook.io/dotnet-developer/)**: A GitBook resource providing basic knowledge, hands-on experience, and knowledge sharing for aspiring .NET developers. (Started: Dec 3, 2024)
 
 ---
 
