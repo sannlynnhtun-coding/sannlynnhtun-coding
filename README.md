@@ -119,6 +119,8 @@ A collection of my web applications, mostly built with **Blazor WebAssembly** an
 ### 📊 GitHub Statistics
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Sann Lynn Htun's GitHub Stats"/>
+<br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 
 <br><br>
