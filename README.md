@@ -75,10 +75,6 @@ A collection of my web applications, mostly built with **Blazor WebAssembly** an
 <summary><b>Click to collapse/expand project list</b></summary>
 <br>
 
-<details open>
-<summary><b>Click to collapse/expand project list</b></summary>
-<br>
-
 | # | Icon | Project Name & Link | Tech Stack |
 |:--|:----:|:--------------------|:-----------|
 | 2 | <img src="https://blazor-wasm-banking-management-system.vercel.app/favicon.ico" width=40> | [**Banking Management System**](https://blazor-wasm-banking-management-system.vercel.app/) | .NET 8 Blazor WASM |
