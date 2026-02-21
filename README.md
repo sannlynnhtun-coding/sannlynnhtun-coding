@@ -75,44 +75,14 @@ A collection of my web applications, mostly built with **Blazor WebAssembly** an
 <summary><b>Click to collapse/expand project list</b></summary>
 <br>
 
+<details open>
+<summary><b>Click to collapse/expand project list</b></summary>
+<br>
+
 | # | Icon | Project Name & Link | Tech Stack |
 |:--|:----:|:--------------------|:-----------|
-| 36 | <img src="https://blazor-wasm-dream-dictionary.vercel.app/favicon.png" width=40> | [**Dream Dictionary**](https://blazor-wasm-dream-dictionary.vercel.app/) | .NET 8 Blazor WASM |
-| 35 | <img src="https://blazor-wasm-phayarsar.vercel.app/favicon.png" width=40> | [**Phayar Sar**](https://blazor-wasm-phayarsar.vercel.app/) | .NET 8 Blazor WASM |
-| 34 | <img src="https://cdn-icons-png.flaticon.com/512/2830/2830284.png" width=40> | [**Banking Management System**](https://blazor-wasm-banking-management-system.vercel.app/) | .NET 8 Blazor WASM |
-| 33 | <img src="https://blazor-wasm-burmese-agriculture.vercel.app/favicon.png" width=40> | [**Burmese Agriculture**](https://blazor-wasm-burmese-agriculture.vercel.app/) | .NET 8 Blazor WASM |
-| 32 | <img src="https://blazor-wasm-burmese-recipes.vercel.app/favicon.png" width=40> | [**Burmese Recipes**](https://blazor-wasm-burmese-recipes.vercel.app/) | .NET 8 Blazor WASM |
-| 31 | <img src="https://blazor-wasm-incompatible-food.vercel.app/favicon.jpg" width=40> | [**Incompatible Food**](https://blazor-wasm-incompatible-food.vercel.app/) | .NET 8 Blazor WASM |
-| 30 | <img src="https://blazor-wasm-art-gallery.vercel.app/favicon.png" width=40> | [**Art Gallery**](https://blazor-wasm-art-gallery.vercel.app/) | .NET 8 Blazor WASM |
-| 29 | <img src="https://blazor-wasm-snakes.vercel.app/favicon.png" width=40> | [**Snakes Game**](https://blazor-wasm-snakes.vercel.app/) | .NET 8 Blazor WASM |
-| 28 | <img src="https://cdn-icons-png.flaticon.com/512/9578/9578862.png" width=40> | [**Myanmar Months**](https://blazor-wasm-myanmar-months.netlify.app/) | .NET 6 Blazor WASM |
-| 27 | <img src="https://cdn-icons-png.flaticon.com/512/9804/9804282.png" width=40> | [**Birds Directory**](https://blazor-wasm-birds.netlify.app/) | .NET 6 Blazor WASM |
-| 26 | <img src="https://cdn-icons-png.flaticon.com/512/2322/2322197.png" width=40> | [**Bagan Map**](https://blazor-wasm-bagan-map.netlify.app/) | .NET 6 Blazor WASM |
-| 25 | <img src="https://cdn-icons-png.flaticon.com/512/3270/3270184.png" width=40> | [**Movie Tickets Booking**](https://blazor-wasm-movie-ticket-online.netlify.app/) | .NET 6 Blazor WASM |
-| 24 | <img src="https://blazor-wasm-mini-pos-v2.netlify.app/logo.png" width=40> | [**Mini POS v2**](https://blazor-wasm-mini-pos-v2.netlify.app/) | .NET 6 Blazor WASM |
-| 23 | <img src="https://blazor-wasm-tvflix.netlify.app/favicon.svg" width=40> | [**Tvflix**](https://blazor-wasm-tvflix.netlify.app/) | .NET 6 Blazor WASM |
-| 22 | <img src="https://blazor-wasm-git-finder.netlify.app/favicon.svg" width=40> | [**GitFinder**](https://blazor-wasm-git-finder.netlify.app/) | .NET 6 Blazor WASM |
-| 21 | <img src="https://blazor-wasm-weather-v2.netlify.app/favicon.svg" width=40> | [**Weather App v2**](https://blazor-wasm-weather-v2.netlify.app/) | .NET 6 Blazor WASM |
-| 20 | <img src="https://melodic-journeys-of-collin.vercel.app/assets/img/logo.svg" width=40> | [**Melodic Journeys**](https://melodic-journeys-of-collin.vercel.app/) | .NET 8 Blazor WASM |
-| 19 | <img src="https://blazor-wasm-food-delivery.vercel.app/assets/img/favicon.png" width=40> | [**Food Delivery**](https://blazor-wasm-food-delivery.vercel.app/) | .NET 8 Blazor WASM |
-| 18 | <img src="https://cdn-icons-png.flaticon.com/512/1408/1408429.png" width=40> | [**Pick A Pile**](https://blazor-wasm-pick-a-pile.netlify.app/) | .NET 6 Blazor WASM |
-| 17 | <img src="https://cdn-icons-png.flaticon.com/512/10092/10092599.png" width=40> | [**GitHub API Integration**](https://blazor-wasm-work-with-github-api.netlify.app/) | .NET 6 Blazor WASM |
-| 16 | <img src="https://blazor-wasm-zodiac.netlify.app/assets/images/logo.svg" width=40> | [**Zodiac**](https://blazor-wasm-zodiac.netlify.app/) | .NET 6 Blazor WASM |
-| 15 | <img src="https://cdn-icons-png.flaticon.com/512/5974/5974636.png" width=40> | [**Budget App**](https://blazor-wasm-budget.netlify.app/) | .NET 6 Blazor WASM |
-| 14 | <img src="https://cdn-icons-png.flaticon.com/512/3136/3136007.png" width=40> | [**Calculator**](https://blazor-wasm-calculator.netlify.app/) | .NET 6 Blazor WASM |
-| 13 | <img src="https://cdn-icons-png.flaticon.com/512/2228/2228381.png" width=40> | [**Roll Dice**](https://blazor-wasm-roll-dice.netlify.app/) | .NET 6 Blazor WASM |
-| 12 | <img src="https://cdn-icons-png.flaticon.com/512/6059/6059929.png" width=40> | [**Expense Tracker**](https://blazor-wasm-expense-tracker.netlify.app/) | .NET 6 Blazor WASM |
-| 11 | <img src="https://cdn-icons-png.flaticon.com/512/2247/2247779.png" width=40> | [**Memory Card Game**](https://blazor-wasm-memory-card-game.netlify.app/) | .NET 6 Blazor WASM |
-| 10 | <img src="https://cdn-icons-png.flaticon.com/512/3176/3176366.png" width=40> | [**To Do List**](https://blazor-wasm-todolist.netlify.app/) | .NET 6 Blazor WASM |
-| 9 | <img src="https://svelte-dotolist-proj.vercel.app/favicon.png" width=40> | [**Svelte To Do List**](https://svelte-dotolist-proj.vercel.app/) | Svelte |
-| 8 | <img src="https://open-meteo.com/favicon.ico" width=40> | [**Open Meteo Weather**](https://blazor-wasm-weather-app.netlify.app/) | .NET 6 Blazor WASM |
-| 7 | <img src="https://mysta.peerduck.com/wp-content/uploads/2022/01/m-fav-100x100.png" width=40> | [**Mysta - Astrology**](https://mysta-pile.herokuapp.com/) | Blazor Server |
-| 6 | <img src="https://cdn-icons-png.flaticon.com/512/1163/1163624.png" width=40> | [**Open Map Weather**](https://openmapweather-blazor-server.herokuapp.com/) | Blazor Server |
-| 5 | <img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=40> | [**Min Thein Kha (Weekly)**](https://mintheinkha-weeklybaydin.herokuapp.com/) | Blazor Server |
-| 4 | <img src="https://mintheinkha-lathtaukbaydin.netlify.app/mintheinkha_logo.png" width=40> | [**Min Thein Kha (Lat Htauk)**](https://mintheinkha-lathtaukbaydin.netlify.app/) | Blazor WASM |
-| 3 | <img src="https://bolby-blazor-wasm.netlify.app/images/avatar-1.svg" width=40> | [**Bolby Portfolio**](https://bolby-blazor-wasm.netlify.app/) | Blazor WASM |
-| 2 | <img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=40> | [**Crypto Tracker v2**](https://crypto-currency-tracker-v2.netlify.app/) | Blazor WASM |
-| 1 | <img src="https://crypto-currency-tracker-v2.netlify.app/icon-192.png" width=40> | [**Crypto Tracker v1**](https://crypto-currency-tracker-one.netlify.app) | Blazor WASM |
+| 2 | <img src="https://blazor-wasm-banking-management-system.vercel.app/favicon.ico" width=40> | [**Banking Management System**](https://blazor-wasm-banking-management-system.vercel.app/) | .NET 8 Blazor WASM |
+| 1 | <img src="https://blazor-wasm-mini-pos.vercel.app/favicon.ico" width=40> | [**Mini POS**](https://blazor-wasm-mini-pos.vercel.app/) | .NET 8 Blazor WASM |
 
 </details>
 
