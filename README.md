@@ -45,7 +45,8 @@ Currently, I lead development teams at **[ACE Data Systems](https://acedatasyste
 | Period | Role | Company | Key Projects |
 |:-------|:-----|:--------|:-------------|
 | **Feb 2015 - Present** | **Team Lead / Senior Software Engineer** | [ACE Data Systems](https://acedatasystems.com/) | • GTB Wallet<br>• Pay2U Wallet / EBMB<br>• MFTB EBMB<br>• GBank EBMB<br>• KBZ MICR Auto Synchronous |
-| **April 2025 - Present** | **Instructor** | [Technortal](https://linkedin.com/company/technortal/) | • Teaching & Mentoring |
+| **Mar 2024 - Present · 2 yrs 3 mos** | **Founder & Organizer** | [One Project One Month](https://www.linkedin.com/company/one-project-one-month/) | • Yangon, Myanmar · Remote<br>• Monthly community: one idea, one team, one finished project in 30 days<br>• [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) |
+| **Apr 2025 - Present · 1 yr 2 mos** | **Instructor** | [Technortal](https://linkedin.com/company/technortal/) | • **[B-5]** Technortal's C# .NET Basic to Project Class (Mar 2026 – Present · 3 mos)<br>• **[IPB-2]** C# Basic to Project In-Person Course (Jan 2026 – Present · 5 mos)<br>• **[B-4]** Technortal's C# .NET Basic to Project Class (Nov 2025 – Feb 2026 · 4 mos)<br>• **[B-3]** Technortal's C# .NET Basic to Project Class (Sep 2025 – Feb 2026 · 6 mos)<br>• **[IPB-1]** C# Basic to Project In-Person Course (Aug 2025 – Nov 2025 · 4 mos)<br>• **[B-2]** Technortal's C# .NET Basic to Project Class (May 2025 – Sep 2025 · 5 mos)<br>• **[B-1]** Technortal's C# .NET Basic to Project Class — **full-time** (Apr 2025 – Jul 2025 · 4 mos) |
 | **Nov 2024 - Feb 2025** | **Instructor** | [ACE Inspiration](https://www.linkedin.com/school/ace-inspiration) | • Teaching & Mentoring |
 | **Oct 2017 - Nov 2022** | **Senior Software Engineer (Part-time)** | [Techno Bright Innovation Group](https://www.facebook.com/TechnoBrightInnovationGroup) | • Enterprise Solutions<br>• Custom Software Development |
 
@@ -57,13 +58,15 @@ I believe in giving back to the community. Here are some of my initiatives:
 
 *   **Mentor at Code2Career Hackathon (Nov 2025)**: Mentored participants at the hackathon organized by **Myanmar Japan Center (MJC)** (JICA funded), which serves as a hub for business information networks contributing to strengthening economic relations between Japan and Myanmar.
 *   **Mentor at Venture Base Hackathon (Oct 2025)**: Mentored participants at the Venture Base Hackathon.
+*   **Mentor and Judge at [Technortal](https://linkedin.com/company/technortal/) One Project One Week Hackathon (Apr 22–28, 2025)**: Supported teams as a mentor and evaluated projects as a judge during the one-week build sprint (start: 22 April 2025, final: 28 April 2025).
 *   **C# .NET Training Classes**: I have successfully conducted multiple batches of free training for aspiring developers.
     *   **Batch 3**: Completed April 24, 2024.
     *   **Batch 4**: Completed September 3, 2024.
     *   **Batch 5**: Started September 7, 2024 - Ends January 30, 2025.
 *   **[Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas)**: An open-source project designed to provide project ideas and guidance for junior developers in Myanmar to build their portfolios. (Started: Oct 5, 2023)
 *   **Developer Tea Talk**: A knowledge-sharing initiative for the developer community. (Started: August 31, 2023)
-*   **[One Project One Month](https://github.com/one-project-one-month)**: Delivering complete software projects in one month, covering coding, database design, UI/UX, backend development, and teamwork from planning to deployment. (Started: March 1, 2024)
+*   **Founder & Organizer at [One Project One Month](https://www.linkedin.com/company/one-project-one-month/)** (Mar 2024 – Present · 2 yrs 3 mos · Yangon, remote): Full details in **Work Experience** above — _"Build Together, Grow Together."_
+*   **Instructor at [Technortal](https://linkedin.com/company/technortal/)** (Apr 2025 – Present · 1 yr 2 mos): Seven batches (**B-1** through **B-5**, **IPB-1**, **IPB-2**) — full course names and dates in **Work Experience** above.
 *   **[Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects)**: A curated collection of Blazor projects designed for junior developers to learn and practice.
 *   **[C# Course (.NET 8)](https://github.com/sannlynnhtun-coding/csharp-course)**: A comprehensive learning path for .NET developers covering C#, ASP.NET Core, Blazor, and more. (Started: May 8, 2024)
 *   **[C# Examples](https://github.com/sannlynnhtun-coding/csharp-examples)**: A collection of C# and .NET examples ranging from console apps to web APIs and Blazor, designed to help junior developers understand core concepts. (Started: Sep 12, 2024)
