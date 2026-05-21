@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sann Lynn Htun! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDA8,100:1a1b27&height=200&section=header&text=Hi%20there%20👋&fontSize=50&fontAlignY=35&desc=Sann%20Lynn%20Htun&descSize=22&descAlignY=55&animation=twinkling" alt="Profile header"/>
 
 ### Senior Software Engineer | Team Lead | .NET Ecosystem Specialist
 
@@ -8,6 +8,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://fb.com/sannlynnhtun-coding)](https://fb.com/sannlynnhtun-coding)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@SannLynnHtun)](https://www.youtube.com/@SannLynnHtun)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+SnO5wIMP8QRhYmZl)](https://t.me/+SnO5wIMP8QRhYmZl)
+
+<br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&quote=We%20live.%20We%20code.%20We%20yoke.&author=Sann%20Lynn%20Htun)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 </div>
 
@@ -76,13 +80,31 @@ A collection of my web applications, mostly built with **Blazor WebAssembly** an
 <br>
 
 
-| # | Icon                                                                                      | Project Name & Link                                                                        | Tech Stack         | Repo                                                                                                                                                                                                          |
-| - | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 5 | <img src="https://blazor-wasm-loan-tracker.vercel.app/favicon.ico" width=40>              | **[Loan Tracker](https://blazor-wasm-loan-tracker.vercel.app/)**                           | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/loan-tracker)                                                                                                    |
-| 4 | <img src="https://hcas-smart.vercel.app/favicon.ico" width=40>                            | **[Health Care Appointment System](https://hcas-smart.vercel.app/)**                       | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/health-care-appointment-system) |
-| 3 | <img src="https://nextjs-firebase-push-notification.vercel.app/favicon.ico" width=40>     | **[Push Notification](https://nextjs-firebase-push-notification.vercel.app/)**             | Next.js, Firebase  | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/nextjs-firebase-push-notification)                                                                               |
-| 2 | <img src="https://blazor-wasm-banking-management-system.vercel.app/favicon.ico" width=40> | **[Banking Management System](https://blazor-wasm-banking-management-system.vercel.app/)** | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/DotNet8.BankingManagementSystem)                                                                                 |
-| 1 | <img src="https://blazor-wasm-mini-pos.vercel.app/favicon.ico" width=40>                  | **[Mini POS](https://blazor-wasm-mini-pos.vercel.app/)**                                   | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/BlazorWasm.MiniPOS)                                                                                              |
+| # | Icon | Project Name & Link | Tech Stack | Repo |
+| - | - | - | - | - |
+| 23 | <img src="https://gist-hub.vercel.app/logo.svg" width=40> | **[Gist Hub](https://gist-hub.vercel.app/)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/gist-hub) |
+| 22 | <img src="https://github.com/favicon.ico" width=40> | **[Dev Track](https://github.com/sannlynnhtun-coding/DevTrack)** | .NET | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/DevTrack) |
+| 21 | <img src="https://preline-blazor.vercel.app/favicon.svg" width=40> | **[Preline Blazor](https://preline-blazor.vercel.app/)** | .NET Blazor | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/preline-blazor) |
+| 20 | <img src="https://burma-eventify.vercel.app/logo.svg" width=40> | **[Eventify](https://burma-eventify.vercel.app/)** | .NET Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/eventify) |
+| 19 | <img src="https://github.com/favicon.ico" width=40> | **[Memory Card Game](https://github.com/sannlynnhtun-coding/memory-card-game)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/memory-card-game) |
+| 18 | <img src="https://github.com/favicon.ico" width=40> | **[Phayar Sar](https://github.com/sannlynnhtun-coding/phayar-sar)** | .NET Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/phayar-sar) |
+| 17 | <img src="https://github.com/favicon.ico" width=40> | **[ASP.NET Core MVC Auth Filter Sample](https://github.com/sannlynnhtun-coding/aspnetcore-mvc-auth-filter-sample)** | ASP.NET Core MVC | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/aspnetcore-mvc-auth-filter-sample) |
+| 16 | <img src="https://github.com/favicon.ico" width=40> | **[Northwind MVC](https://github.com/sannlynnhtun-coding/northwind-mvc)** | ASP.NET Core MVC | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/northwind-mvc) |
+| 15 | <img src="https://melodic-journeys-of-collin.vercel.app/favicon.png" width=40> | **[Melodic Journeys of Collin](https://melodic-journeys-of-collin.vercel.app/)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/melodic-journeys-of-collin) |
+| 14 | <img src="https://blazor-wasm-dream-dictionary.vercel.app/favicon.svg" width=40> | **[Blazor Dream Dictionary](https://blazor-wasm-dream-dictionary.vercel.app/)** | .NET Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/blazor-dream-dictionary) |
+| 13 | <img src="https://burma-love-calculator.vercel.app/love-icon.svg" width=40> | **[Burma Love Calculator](https://burma-love-calculator.vercel.app/)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/burma-love-calculator) |
+| 12 | <img src="https://blazor-wasm-mtobs.vercel.app/favicon.svg" width=40> | **[Movie Ticket Online Booking System](https://blazor-wasm-mtobs.vercel.app/)** | .NET Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/movie-ticket-online-booking-system) |
+| 11 | <img src="https://github.com/favicon.ico" width=40> | **[Daily Blazor](https://github.com/sannlynnhtun-coding/daily-blazor)** _(private)_ | .NET Blazor | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/daily-blazor) |
+| 10 | <img src="https://blazor-word-list.vercel.app/logo.svg" width=40> | **[Blazor Word List](https://blazor-word-list.vercel.app/)** | .NET Blazor | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/blazor-word-list) |
+| 9 | <img src="https://test-detect-os.vercel.app/favicon.svg" width=40> | **[Detect OS](https://test-detect-os.vercel.app/)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/detect-os) |
+| 8 | <img src="https://hcas-smart.vercel.app/favicon.ico" width=40> | **[Health Care Appointment System](https://hcas-smart.vercel.app/)** | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/health-care-appointment-system) |
+| 7 | <img src="https://burma-calendar.vercel.app/logo.svg" width=40> | **[Burma Calendar](https://burma-calendar.vercel.app/)** | Web | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/burma-calendar) |
+| 6 | <img src="https://blazor-wasm-bagan-trip.vercel.app/images/logo.svg" width=40> | **[Bagan Trip](https://blazor-wasm-bagan-trip.vercel.app/)** | .NET Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/bagan-trip) |
+| 5 | <img src="https://github.com/favicon.ico" width=40> | **[Burma Project Idea APIs YARP Gateway](https://github.com/sannlynnhtun-coding/burma-project-idea-apis-yarp-gateway-sample)** | .NET, YARP | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/burma-project-idea-apis-yarp-gateway-sample) |
+| 4 | <img src="https://blazor-wasm-loan-tracker.vercel.app/favicon.ico" width=40> | **[Loan Tracker](https://blazor-wasm-loan-tracker.vercel.app/)** | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/loan-tracker) |
+| 3 | <img src="https://blazor-wasm-mini-pos.vercel.app/favicon.ico" width=40> | **[Mini POS](https://blazor-wasm-mini-pos.vercel.app/)** | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/mini-pos) |
+| 2 | <img src="https://nextjs-firebase-push-notification.vercel.app/favicon.ico" width=40> | **[Push Notification](https://nextjs-firebase-push-notification.vercel.app/)** | Next.js, Firebase | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/nextjs-firebase-push-notification) |
+| 1 | <img src="https://blazor-wasm-banking-management-system.vercel.app/favicon.ico" width=40> | **[Banking Management System](https://blazor-wasm-banking-management-system.vercel.app/)** | .NET 8 Blazor WASM | [<img src="https://github.com/favicon.ico" width=20>](https://github.com/sannlynnhtun-coding/banking-management-system) |
 
 </details>
 
@@ -92,10 +114,41 @@ A collection of my web applications, mostly built with **Blazor WebAssembly** an
 
 ### 📊 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true" alt="Sann Lynn Htun's GitHub Stats"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDA8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Senior+.NET+Engineer+%7C+Team+Lead;Mentor+%26+Open+Source+Contributor)](https://git.io/typing-svg)
+
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sannlynnhtun-coding&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sannlynnhtun-coding&cc=1a1b27&tc=e6edf3&ic=38bda8&bc=30363d)](https://github.com/tuhinpal/readme-stats-github)
+
+<br>
+
+| Profile | Contribution streak |
+| :---: | :---: |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sannlynnhtun-coding&theme=github_dark" alt="GitHub profile summary"/> | <img height="195em" src="https://streak-stats.demolab.com/?user=sannlynnhtun-coding&theme=github-dark&hide_border=true" alt="GitHub contribution streak"/> |
+
+| Top languages (repos) | Top languages (commits) |
+| :---: | :---: |
+| <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sannlynnhtun-coding&theme=github_dark" alt="Top languages by repository"/> | <img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sannlynnhtun-coding&theme=github_dark" alt="Top languages by commits"/> |
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sannlynnhtun-coding&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+
+<br>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sannlynnhtun-coding&theme=github_dark&utcOffset=6.5" alt="Most productive time (Myanmar UTC+6:30)"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sannlynnhtun-coding&theme=dracula&no-frame=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+
+<br>
+
+**I build with**
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,blazor,js,ts,react,nextjs,mysql,firebase,git,github,vscode,visualstudio,postman&perline=7)](https://skillicons.dev)
+
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity snake"/>
 
 <br><br>
 
