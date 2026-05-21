@@ -25,7 +25,7 @@ jobs:
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ github.token }}
           publish_branch: output
           publish_dir: dist
           commit_message: "chore: update github contribution snake"
