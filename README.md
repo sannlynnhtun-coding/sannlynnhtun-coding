@@ -151,7 +151,11 @@ A collection of my web apps and learning projects—mostly **Blazor** and **.NET
 
 <br>
 
-<img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-contribution-grid-snake-dark.svg" alt="Contribution activity snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" />
+  <img width="100%" alt="github contribution snake" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" />
+</picture>
 
 <br><br>
 
