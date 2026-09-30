@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am a dedicated **Full Stack Developer** and **Team Lead** based in **Yangon, Myanmar**, with over **10 years of experience** in the software industry. My expertise lies in architecting and building robust financial and banking solutions using the **.NET ecosystem** (ASP.NET Core MVC, Blazor, Web API).
+I am a dedicated **Full Stack Developer** and **Team Lead** based in **Yangon, Myanmar**, with **11+ years of experience** in the software industry. My expertise lies in architecting and building robust financial and banking solutions using the **.NET ecosystem** (ASP.NET Core MVC, Blazor, Web API).
 
 Currently, I lead development teams at **[ACE Data Systems](https://acedatasystems.com/)**, overseeing projects ranging from Core Banking Systems to Digital Wallets. I am also passionate about education and open-source, actively mentoring junior developers through free classes and community initiatives.
 
