@@ -76,189 +76,97 @@ I believe in giving back to the community. Here are some of my initiatives:
 
 ## 🚀 Featured Projects Portfolio
 
-### Gist Hub
-
-**Live demo:** [View live demo](https://gist-hub.vercel.app/)
-
-**Description:** **Code snippet library.** Browse, save, and organize small code notes from GitHub in one place—like a bookmark folder for useful programming examples. I built it so learners and developers can revisit saved snippets quickly without searching GitHub again.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/gist-hub)
-
-### Dev Track
-
-**Live demo:** Not available.
-
-**Description:** **Developer progress tracker.** Keeps track of learning tasks or project work in one place. I created it as a personal .NET practice project to explore how task-tracking apps are structured.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/DevTrack)
-
-### Preline Blazor
-
-**Live demo:** [View live demo](https://preline-blazor.vercel.app/)
-
-**Description:** **UI showcase demo.** Shows modern page layouts and components built with Blazor and Preline styling. Useful for students who want to see how a clean, professional-looking website is put together.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/preline-blazor)
-
-### Eventify
-
-**Live demo:** [View live demo](https://burma-eventify.vercel.app/)
-
-**Description:** **Event helper app.** Browse and work with community or business events in one web app—similar to a simple event board or booking starter. I built it to practice real-world event listing flows for Myanmar users.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/eventify)
-
-### Memory Card Game
-
-**Live demo:** Not available.
-
-**Description:** **Fun matching game.** Flip cards and find pairs—a simple brain game in the browser. Good for relaxing and for teaching basic web game ideas to beginners.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/memory-card-game)
-
-### Phayar Sar
-
-**Live demo:** Not available.
-
-**Description:** **Myanmar palm-reading style app.** Entertainment and cultural tool inspired by traditional fortune themes. I made it to blend local culture with a modern web experience—not for serious financial or medical advice.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/phayar-sar)
-
-### ASP.NET Core MVC Auth Filter Sample
-
-**Live demo:** Not available.
-
-**Description:** **Learning sample (not a business product).** Demonstrates how “who is allowed to see this page?” checks work on a website. I created it for students learning login and security basics in ASP.NET.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/aspnetcore-mvc-auth-filter-sample)
-
-### Northwind MVC
-
-**Live demo:** Not available.
-
-**Description:** **Practice shop system.** Uses the famous Northwind sample data (customers, products, orders) like a fake online store back office. A classic training project—I use it to teach how business apps manage lists, orders, and records.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/northwind-mvc)
-
-### Melodic Journeys of Collin
-
-**Live demo:** [View live demo](https://melodic-journeys-of-collin.vercel.app/)
-
-**Description:** **Music journey site.** A showcase for Collin’s melodic work—listen, explore, and enjoy the story behind the music. I built it as a creative portfolio-style experience, not a shop or bank app.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/melodic-journeys-of-collin)
-
-### Blazor Dream Dictionary
-
-**Live demo:** [View live demo](https://blazor-wasm-dream-dictionary.vercel.app/)
-
-**Description:** **Dream meaning lookup.** Type what you dreamed and read simple explanations—curiosity and fun, like a pocket dream guide. Useful for practicing search and dictionary-style apps in Blazor.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/blazor-dream-dictionary)
-
-### Burma Love Calculator
-
-**Live demo:** [View live demo](https://burma-love-calculator.vercel.app/)
-
-**Description:** **Fun name-match game.** Enter two names and get a playful “compatibility” score to share with friends. Light entertainment—I made it as a simple, joyful social app, not a scientific tool.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/burma-love-calculator)
-
-### Movie Ticket Online Booking System
-
-**Live demo:** [View live demo](https://blazor-wasm-mtobs.vercel.app/)
-
-**Description:** **Cinema booking demo.** Pick a movie, choose seats, and book tickets online—like a small cinema website. I built it to show how real ticket-selling businesses handle schedules, seats, and orders.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/movie-ticket-online-booking-system)
-
-### Daily Blazor _(private)_
-
-**Live demo:** Not available.
-
-**Description:** **Private daily coding journal.** Small exercises I complete while learning Blazor, kept in one repo. Not a public product—for my own steady practice and teaching examples.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/daily-blazor)
-
-### Blazor Word List
-
-**Live demo:** [View live demo](https://blazor-word-list.vercel.app/)
-
-**Description:** **Word list manager.** Add, edit, and study groups of words—helpful for vocabulary, spelling drills, or language learning. I created it for students who need a simple list they can open in the browser.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/blazor-word-list)
-
-### Detect OS
-
-**Live demo:** [View live demo](https://test-detect-os.vercel.app/)
-
-**Description:** **“What device am I using?” checker.** Shows your operating system, browser, and device type on one page. Handy demo for beginners to understand how websites know what kind of phone or computer you use.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/detect-os)
-
-### Health Care Appointment System
-
-**Live demo:** [View live demo](https://hcas-smart.vercel.app/)
-
-**Description:** **Clinic appointment booking.** Patients can request visit times online instead of only calling the clinic. A real-world style health app demo—I built it to show scheduling, doctors, and appointments in one system.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/health-care-appointment-system)
-
-### Burma Calendar
-
-**Live demo:** [View live demo](https://burma-calendar.vercel.app/)
-
-**Description:** **Myanmar calendar & holidays.** See Myanmar dates, public holidays, and seasons in a clear, modern layout—helpful for planning festivals, leave, and family events. I wanted tradition and daily life planning in one friendly app.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/burma-calendar)
-
-### Bagan Trip
-
-**Live demo:** [View live demo](https://blazor-wasm-bagan-trip.vercel.app/)
-
-**Description:** **Bagan travel planner.** Explore places, trips, and travel ideas around Bagan—useful for tourists and locals organizing a visit. I built it as a tourism-style demo with maps, lists, and trip details.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/bagan-trip)
-
-### Burma Project Idea APIs YARP Gateway
-
-**Live demo:** Not available.
-
-**Description:** **Developer learning sample.** One front door that sends requests to several small backend services—how bigger companies split apps into pieces. For junior developers in Myanmar learning APIs; not meant for everyday non-tech users.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/burma-project-idea-apis-yarp-gateway-sample)
-
-### Loan Tracker
-
-**Live demo:** [View live demo](https://blazor-wasm-loan-tracker.vercel.app/)
-
-**Description:** **Personal loan notebook.** Record who borrowed or lent money, how much, and when—so informal loans between friends or family stay clear. Small finance helper, not a full bank system.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/loan-tracker)
-
-### Mini POS
-
-**Live demo:** [View live demo](https://blazor-wasm-mini-pos.vercel.app/)
-
-**Description:** **Small shop cash register.** Add products, ring up sales, and see totals—like a simple point-of-sale for a tea shop or small store. I built it to show how retail businesses track daily sales on a computer.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/mini-pos)
-
-### Push Notification
-
-**Live demo:** [View live demo](https://nextjs-firebase-push-notification.vercel.app/)
-
-**Description:** **Alert message demo.** Shows how apps send pop-up notifications to your phone or browser (e.g. “order ready,” “new message”). A technical demo I use when teaching how modern apps stay in touch with users.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/nextjs-firebase-push-notification)
-
-### Banking Management System
-
-**Live demo:** [View live demo](https://blazor-wasm-banking-management-system.vercel.app/)
-
-**Description:** **Practice bank back office.** View accounts, balances, and transfers in a training version of banking software—similar to tools bank staff use, but for learning only (not a real bank). I made it to teach financial app patterns to .NET students.
-
-**Repo:** [GitHub](https://github.com/sannlynnhtun-coding/banking-management-system)
+**Gist Hub**<br>
+**Code snippet library.** Browse, save, and organize small code notes from GitHub in one place—like a bookmark folder for useful programming examples. I built it so learners and developers can revisit saved snippets quickly without searching GitHub again.<br>
+[Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/gist-hub)
+
+**Dev Track**<br>
+**Developer progress tracker.** Keeps track of learning tasks or project work in one place. I created it as a personal .NET practice project to explore how task-tracking apps are structured.<br>
+[Repository](https://github.com/sannlynnhtun-coding/DevTrack)
+
+**Preline Blazor**<br>
+**UI showcase demo.** Shows modern page layouts and components built with Blazor and Preline styling. Useful for students who want to see how a clean, professional-looking website is put together.<br>
+[Live demo](https://preline-blazor.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/preline-blazor)
+
+**Eventify**<br>
+**Event helper app.** Browse and work with community or business events in one web app—similar to a simple event board or booking starter. I built it to practice real-world event listing flows for Myanmar users.<br>
+[Live demo](https://burma-eventify.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/eventify)
+
+**Memory Card Game**<br>
+**Fun matching game.** Flip cards and find pairs—a simple brain game in the browser. Good for relaxing and for teaching basic web game ideas to beginners.<br>
+[Repository](https://github.com/sannlynnhtun-coding/memory-card-game)
+
+**Phayar Sar**<br>
+**Myanmar palm-reading style app.** Entertainment and cultural tool inspired by traditional fortune themes. I made it to blend local culture with a modern web experience—not for serious financial or medical advice.<br>
+[Repository](https://github.com/sannlynnhtun-coding/phayar-sar)
+
+**ASP.NET Core MVC Auth Filter Sample**<br>
+**Learning sample (not a business product).** Demonstrates how “who is allowed to see this page?” checks work on a website. I created it for students learning login and security basics in ASP.NET.<br>
+[Repository](https://github.com/sannlynnhtun-coding/aspnetcore-mvc-auth-filter-sample)
+
+**Northwind MVC**<br>
+**Practice shop system.** Uses the famous Northwind sample data (customers, products, orders) like a fake online store back office. A classic training project—I use it to teach how business apps manage lists, orders, and records.<br>
+[Repository](https://github.com/sannlynnhtun-coding/northwind-mvc)
+
+**Melodic Journeys of Collin**<br>
+**Music journey site.** A showcase for Collin’s melodic work—listen, explore, and enjoy the story behind the music. I built it as a creative portfolio-style experience, not a shop or bank app.<br>
+[Live demo](https://melodic-journeys-of-collin.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/melodic-journeys-of-collin)
+
+**Blazor Dream Dictionary**<br>
+**Dream meaning lookup.** Type what you dreamed and read simple explanations—curiosity and fun, like a pocket dream guide. Useful for practicing search and dictionary-style apps in Blazor.<br>
+[Live demo](https://blazor-wasm-dream-dictionary.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-dream-dictionary)
+
+**Burma Love Calculator**<br>
+**Fun name-match game.** Enter two names and get a playful “compatibility” score to share with friends. Light entertainment—I made it as a simple, joyful social app, not a scientific tool.<br>
+[Live demo](https://burma-love-calculator.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/burma-love-calculator)
+
+**Movie Ticket Online Booking System**<br>
+**Cinema booking demo.** Pick a movie, choose seats, and book tickets online—like a small cinema website. I built it to show how real ticket-selling businesses handle schedules, seats, and orders.<br>
+[Live demo](https://blazor-wasm-mtobs.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/movie-ticket-online-booking-system)
+
+**Daily Blazor _(private)_**<br>
+**Private daily coding journal.** Small exercises I complete while learning Blazor, kept in one repo. Not a public product—for my own steady practice and teaching examples.<br>
+[Repository](https://github.com/sannlynnhtun-coding/daily-blazor)
+
+**Blazor Word List**<br>
+**Word list manager.** Add, edit, and study groups of words—helpful for vocabulary, spelling drills, or language learning. I created it for students who need a simple list they can open in the browser.<br>
+[Live demo](https://blazor-word-list.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-word-list)
+
+**Detect OS**<br>
+**“What device am I using?” checker.** Shows your operating system, browser, and device type on one page. Handy demo for beginners to understand how websites know what kind of phone or computer you use.<br>
+[Live demo](https://test-detect-os.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/detect-os)
+
+**Health Care Appointment System**<br>
+**Clinic appointment booking.** Patients can request visit times online instead of only calling the clinic. A real-world style health app demo—I built it to show scheduling, doctors, and appointments in one system.<br>
+[Live demo](https://hcas-smart.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/health-care-appointment-system)
+
+**Burma Calendar**<br>
+**Myanmar calendar & holidays.** See Myanmar dates, public holidays, and seasons in a clear, modern layout—helpful for planning festivals, leave, and family events. I wanted tradition and daily life planning in one friendly app.<br>
+[Live demo](https://burma-calendar.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/burma-calendar)
+
+**Bagan Trip**<br>
+**Bagan travel planner.** Explore places, trips, and travel ideas around Bagan—useful for tourists and locals organizing a visit. I built it as a tourism-style demo with maps, lists, and trip details.<br>
+[Live demo](https://blazor-wasm-bagan-trip.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/bagan-trip)
+
+**Burma Project Idea APIs YARP Gateway**<br>
+**Developer learning sample.** One front door that sends requests to several small backend services—how bigger companies split apps into pieces. For junior developers in Myanmar learning APIs; not meant for everyday non-tech users.<br>
+[Repository](https://github.com/sannlynnhtun-coding/burma-project-idea-apis-yarp-gateway-sample)
+
+**Loan Tracker**<br>
+**Personal loan notebook.** Record who borrowed or lent money, how much, and when—so informal loans between friends or family stay clear. Small finance helper, not a full bank system.<br>
+[Live demo](https://blazor-wasm-loan-tracker.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/loan-tracker)
+
+**Mini POS**<br>
+**Small shop cash register.** Add products, ring up sales, and see totals—like a simple point-of-sale for a tea shop or small store. I built it to show how retail businesses track daily sales on a computer.<br>
+[Live demo](https://blazor-wasm-mini-pos.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/mini-pos)
+
+**Push Notification**<br>
+**Alert message demo.** Shows how apps send pop-up notifications to your phone or browser (e.g. “order ready,” “new message”). A technical demo I use when teaching how modern apps stay in touch with users.<br>
+[Live demo](https://nextjs-firebase-push-notification.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/nextjs-firebase-push-notification)
+
+**Banking Management System**<br>
+**Practice bank back office.** View accounts, balances, and transfers in a training version of banking software—similar to tools bank staff use, but for learning only (not a real bank). I made it to teach financial app patterns to .NET students.<br>
+[Live demo](https://blazor-wasm-banking-management-system.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/banking-management-system)
 
 ---
 
