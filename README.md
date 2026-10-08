@@ -16,7 +16,7 @@ Yangon, Myanmar
 
 I build banking and financial software with C# and .NET, and lead development teams at [ACE Data Systems](https://acedatasystems.com/). I have worked in software since 2015.
 
-Outside work, I build open-source tools and teach developers through C# classes, mentoring, and [One Project One Month](https://one-project-one-month.com/).
+I am the **Founder & Organizer of [One Project One Month](https://one-project-one-month.com/)**, a community where teams build one project in 30 days. I also build open-source tools and teach developers through C# classes and mentoring.
 
 ## Open-Source Projects
 
@@ -38,6 +38,11 @@ A Windows desktop app for browsing, previewing, and editing Markdown files in a 
 
 ## Experience
 
+**Founder & Organizer · [One Project One Month](https://one-project-one-month.com/)**<br>
+Mar 2024 – Present · Yangon, remote<br>
+A monthly community where teams turn one idea into a finished project in 30 days. *Build Together, Grow Together.*<br>
+[Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
+
 **Team Lead / Senior Software Engineer · [ACE Data Systems](https://acedatasystems.com/)**<br>
 Feb 2015 – Present<br>
 Banking and digital wallet projects: GTB Wallet, Pay2U Wallet / EBMB, MFTB EBMB, GBank EBMB, and KBZ MICR Auto Synchronous.
@@ -47,11 +52,6 @@ Oct 2017 – Nov 2022<br>
 Enterprise solutions and custom software development.
 
 ## Teaching & Community
-
-**Founder & Organizer · One Project One Month**<br>
-Since Mar 2024 · Yangon, remote<br>
-A monthly community where teams turn one idea into a finished project in 30 days. *Build Together, Grow Together.*<br>
-[Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
 
 **Instructor · [Technortal](https://linkedin.com/company/technortal/)**<br>
 Since Apr 2025<br>
