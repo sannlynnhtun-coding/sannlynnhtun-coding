@@ -74,11 +74,26 @@ I believe in giving back to the community. Here are some of my initiatives:
 
 ---
 
-## 🚀 Featured Projects Portfolio
+## 🌐 Open-Source Projects
 
-**Gist Hub**<br>
-**Code snippet library.** Browse, save, and organize small code notes from GitHub in one place—like a bookmark folder for useful programming examples. I built it so learners and developers can revisit saved snippets quickly without searching GitHub again.<br>
-[Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/gist-hub)
+**MarkItDown Desktop**<br>
+A Windows desktop app powered by Microsoft MarkItDown for converting local documents to Markdown without installing Python or using the command line.<br>
+[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop)
+
+**Blazor Gist Hub**<br>
+A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, with local caching, bookmarks, and collections.<br>
+[Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
+
+**Dot Pet**<br>
+A purple robot coding pet with adoption and agent installation guidance, plus a local animation preview.<br>
+[Repository](https://github.com/sannlynnhtun-coding/dot-pet)
+
+**Markdown Viewer App**<br>
+A Windows desktop app for browsing, previewing, and editing Markdown files in a selected folder.<br>
+[Repository](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
+
+---
+## 🚀 Featured Projects Portfolio
 
 **Dev Track**<br>
 **Developer progress tracker.** Keeps track of learning tasks or project work in one place. I created it as a personal .NET practice project to explore how task-tracking apps are structured.<br>
