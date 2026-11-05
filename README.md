@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" width="100%" alt="Sann Lynn Htun: .NET Engineer, Open-source Builder, Community Founder. Yangon, Myanmar.">
+  <img src="assets/profile-light.svg" width="100%" alt="Sann Lynn Htun: .NET Engineer and Open-source Developer. Helping beginners and junior developers grow toward senior roles. Yangon, Myanmar.">
 </picture>
 
 [LinkedIn](https://linkedin.com/in/sannlynnhtun) · [YouTube](https://www.youtube.com/@SannLynnHtun) · [Facebook](https://fb.com/sannlynnhtun-coding) · [Telegram](https://t.me/+SnO5wIMP8QRhYmZl)
@@ -9,7 +9,7 @@
 
 I build banking and financial software with C# and .NET, and lead development teams at [ACE Data Systems](https://acedatasystems.com/). I have worked in software since 2015.
 
-I am the **Founder & Organizer of [One Project One Month](https://one-project-one-month.com/)**, a community where teams build one project in 30 days. I also build open-source tools and teach developers through C# classes and mentoring.
+I am the **Founder & Organizer of [One Project One Month](https://one-project-one-month.com/)**, a community where teams build one project in 30 days. I build open-source tools and help beginners and junior developers deepen their knowledge, gain practical experience, and grow toward senior developer roles through C# classes and mentoring.
 
 ## Open-Source Projects
 
@@ -56,7 +56,7 @@ A monthly community where teams turn one idea into a finished project in 30 days
 
 ### Burma Project Ideas
 
-Resources I share to help junior developers build projects and learn C# and .NET.<br>
+Resources I share to help beginners and junior developers learn C# and .NET, practice by building projects, and develop the skills needed for senior roles.<br>
 [Burma Project Ideas community](https://github.com/burma-project-ideas)
 
 #### Project Ideas & Practice
