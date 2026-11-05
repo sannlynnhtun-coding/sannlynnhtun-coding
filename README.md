@@ -72,20 +72,27 @@ A monthly community where teams turn one idea into a finished project in 30 days
 [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/learning-path-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-path-dark.svg">
-  <img src="assets/learning-path-light.svg" width="100%" alt="Helping beginners and junior developers: learn C#, build projects, and deepen .NET skills toward senior roles.">
+  <source media="(max-width: 600px)" srcset="assets/burma-project-ideas-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/burma-project-ideas-dark.svg">
+  <img src="assets/burma-project-ideas-light.svg" width="100%" alt="Burma Project Ideas: project ideas, guides, and examples across languages for junior developers in Myanmar.">
 </picture>
 
-### Burma Project Ideas
+**[Burma Project Ideas](https://github.com/burma-project-ideas)**<br>
+A community collection of project ideas, guides, and practical examples to help junior developers in Myanmar build their first projects. The goal is to leave projects in different programming languages for the next developer to study and build on.
 
-Resources I share to help beginners and junior developers learn C# and .NET, practice by building projects, and develop the skills needed for senior roles.<br>
-[Burma Project Ideas community](https://github.com/burma-project-ideas)
+Projects include [Burma Calendar](https://github.com/burma-project-ideas/burma-calendar), [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs), and [Burmese Recipes](https://github.com/burma-project-ideas/burmese-recipes), with contributors credited in the community README.<br>
+[Community repositories](https://github.com/burma-project-ideas) · [About the community & contributors](https://github.com/burma-project-ideas/.github/blob/main/profile/README.md)
 
 #### Project Ideas & Practice
 
 - [Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas): project ideas and guidance for junior developers in Myanmar.
 - [Burma Project Ideas API with NestJS](https://github.com/sannlynnhtun-coding/burma-project-ideas-api-with-nestjs): a NestJS API for Burma Project Ideas.
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/learning-path-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-path-dark.svg">
+  <img src="assets/learning-path-light.svg" width="100%" alt="Helping beginners and junior developers: learn C#, build projects, and deepen .NET skills toward senior roles.">
+</picture>
 
 #### Learn C# & .NET
 
