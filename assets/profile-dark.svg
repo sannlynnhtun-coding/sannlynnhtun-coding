@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
-<title id="title">Sann Lynn Htun</title>
-<desc id="desc">.NET engineer and open-source developer helping beginners and junior developers grow toward senior roles. Yangon, Myanmar.</desc>
-<rect width="900" height="220" rx="12" fill="#0d1117"/>
-<rect x="0" y="28" width="5" height="164" rx="2" fill="#53d5bf"/>
-<g font-family="Segoe UI, Arial, sans-serif">
-<text x="36" y="47" fill="#53d5bf" font-size="15" font-family="Consolas, monospace">sannlynnhtun-coding / profile</text>
-<text x="34" y="102" fill="#e6edf3" font-size="42" font-weight="700">Sann Lynn Htun</text>
-<text x="36" y="141" fill="#e6edf3" font-size="21">.NET Engineer · Open-source Developer</text>
-<text x="36" y="179" fill="#9da7b3" font-size="17">Helping beginners and junior developers grow toward senior roles.</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="title"><title id="title">Sann Lynn Htun: Senior Software Engineer, Team Lead, Open-source Developer. Helping beginners and juniors build skills for senior roles.</title><rect x="1" y="1" width="898" height="318" rx="16" fill="#0d1117" stroke="#30363d"/><rect x="1" y="1" width="898" height="42" rx="16" fill="#161b22"/><text x="24" y="28" font-family="Consolas, monospace" font-size="15" font-weight="400" fill="#9da7b3">Profile.cs</text><text x="794" y="28" font-family="Consolas, monospace" font-size="13" font-weight="400" fill="#5ee0c4">C# / .NET</text><text x="24" y="85" font-family="Consolas, monospace" font-size="15" font-weight="400" fill="#9da7b3">// We live. We code. We yoke.</text><text x="24" y="132" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#e6edf3">Sann Lynn Htun</text><text x="24" y="173" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#e6edf3">Senior Software Engineer</text><text x="24" y="204" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400" fill="#5ee0c4">Team Lead · Open-source Developer</text><text x="24" y="249" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" fill="#e6edf3">Helping beginners and junior developers build skills for senior roles.</text><text x="24" y="289" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#9da7b3">Yangon, Myanmar · Software development since 2015</text></svg>
