@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-labelledby="title desc">
+<title id="title">Sann Lynn Htun</title>
+<desc id="desc">.NET engineer, open-source builder, and Founder and Organizer of One Project One Month. Yangon, Myanmar.</desc>
+<rect width="900" height="220" rx="12" fill="#0d1117"/>
+<rect x="0" y="28" width="5" height="164" rx="2" fill="#53d5bf"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="36" y="47" fill="#53d5bf" font-size="15" font-family="Consolas, monospace">sannlynnhtun-coding / profile</text>
+<text x="34" y="102" fill="#e6edf3" font-size="42" font-weight="700">Sann Lynn Htun</text>
+<text x="36" y="141" fill="#e6edf3" font-size="21">.NET Engineer · Open-source Builder · Community Founder</text>
+<text x="36" y="179" fill="#9da7b3" font-size="17">Yangon, Myanmar · Building software and helping developers grow.</text>
+</g></svg>

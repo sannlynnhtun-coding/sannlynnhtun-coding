@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-labelledby="title">
+<title id="title">Markdown Viewer App: Windows desktop app</title>
+<rect width="900" height="100" rx="10" fill="#0d1117"/>
+<rect x="0" y="20" width="4" height="60" rx="2" fill="#53d5bf"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="26" y="32" fill="#53d5bf" font-size="12">READ AND EDIT MARKDOWN</text>
+<text x="25" y="71" fill="#e6edf3" font-size="28" font-weight="600">Markdown Viewer App</text>
+</g></svg>

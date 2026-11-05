@@ -1,18 +1,11 @@
-<div align="center">
-
-# Sann Lynn Htun
-
-**Senior Software Engineer · Team Lead · .NET Developer**
-
-Yangon, Myanmar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="Sann Lynn Htun: .NET Engineer, Open-source Builder, Community Founder. Yangon, Myanmar.">
+</picture>
 
 [LinkedIn](https://linkedin.com/in/sannlynnhtun) · [YouTube](https://www.youtube.com/@SannLynnHtun) · [Facebook](https://fb.com/sannlynnhtun-coding) · [Telegram](https://t.me/+SnO5wIMP8QRhYmZl)
 
-*We live. We code. We yoke.*
-
-</div>
-
----
+> We live. We code. We yoke.
 
 I build banking and financial software with C# and .NET, and lead development teams at [ACE Data Systems](https://acedatasystems.com/). I have worked in software since 2015.
 
@@ -20,28 +13,66 @@ I am the **Founder & Organizer of [One Project One Month](https://one-project-on
 
 ## Open-Source Projects
 
-**MarkItDown Desktop**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-dark.svg">
+  <img src="assets/markitdown-light.svg" width="100%" alt="MarkItDown Desktop: Windows desktop app">
+</picture>
+
 A Windows desktop app powered by Microsoft MarkItDown for converting local documents to Markdown without installing Python or using the command line.<br>
 [Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop)
 
-**Blazor Gist Hub**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gist-hub-dark.svg">
+  <img src="assets/gist-hub-light.svg" width="100%" alt="Blazor Gist Hub: Blazor WebAssembly">
+</picture>
+
 A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, with local caching, bookmarks, and collections.<br>
 [Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
 
-**Dot Pet**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dot-pet-dark.svg">
+  <img src="assets/dot-pet-light.svg" width="100%" alt="Dot Pet: Purple robot pet">
+</picture>
+
 A purple robot coding pet with adoption and agent installation guidance, plus a local animation preview.<br>
 [Repository](https://github.com/sannlynnhtun-coding/dot-pet)
 
-**Markdown Viewer App**<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/markdown-viewer-dark.svg">
+  <img src="assets/markdown-viewer-light.svg" width="100%" alt="Markdown Viewer App: Windows desktop app">
+</picture>
+
 A Windows desktop app for browsing, previewing, and editing Markdown files in a selected folder.<br>
 [Repository](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
-## Experience
+## Community & Learning
+
+### One Project One Month
 
 **Founder & Organizer · [One Project One Month](https://one-project-one-month.com/)**<br>
 Mar 2024 – Present · Yangon, remote<br>
 A monthly community where teams turn one idea into a finished project in 30 days. *Build Together, Grow Together.*<br>
 [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
+
+### Burma Project Ideas
+
+Resources I share to help junior developers build projects and learn C# and .NET.<br>
+[Burma Project Ideas community](https://github.com/burma-project-ideas)
+
+#### Project Ideas & Practice
+
+- [Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas): project ideas and guidance for junior developers in Myanmar.
+- [Burma Project Ideas API with NestJS](https://github.com/sannlynnhtun-coding/burma-project-ideas-api-with-nestjs): a NestJS API for Burma Project Ideas.
+
+#### Learn C# & .NET
+
+- [Junior .NET Developer Roadmap](https://github.com/sannlynnhtun-coding/junior-dotnet-developer-roadmap): a learning roadmap covering .NET fundamentals, web development, and database access.
+- [C# Course (.NET 8)](https://github.com/sannlynnhtun-coding/csharp-course): C#, ASP.NET Core, Blazor, and project practice.
+- [C# Examples](https://github.com/sannlynnhtun-coding/csharp-examples): console apps, web APIs, and Blazor examples.
+- [.NET Developer Guide](https://sannlynnhtun.gitbook.io/dotnet-developer/): concepts and practical notes for .NET developers.
+- [Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects): projects to learn from and practice with.
+
+## Experience
 
 **Team Lead / Senior Software Engineer · [ACE Data Systems](https://acedatasystems.com/)**<br>
 Feb 2015 – Present<br>
@@ -51,7 +82,7 @@ Banking and digital wallet projects: GTB Wallet, Pay2U Wallet / EBMB, MFTB EBMB,
 Oct 2017 – Nov 2022<br>
 Enterprise solutions and custom software development.
 
-## Teaching & Community
+## Teaching & Mentoring
 
 **Instructor · [Technortal](https://linkedin.com/company/technortal/)**<br>
 Since Apr 2025<br>
@@ -92,24 +123,19 @@ Free C# .NET training classes and Developer Tea Talk, a developer knowledge-shar
 
 </details>
 
-## Learn .NET
-
-- [C# Course (.NET 8)](https://github.com/sannlynnhtun-coding/csharp-course): C#, ASP.NET Core, Blazor, and project practice.
-- [C# Examples](https://github.com/sannlynnhtun-coding/csharp-examples): console apps, web APIs, and Blazor examples.
-- [.NET Developer Guide](https://sannlynnhtun.gitbook.io/dotnet-developer/): concepts and practical notes for .NET developers.
-- [Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas): portfolio project ideas for junior developers in Myanmar.
-- [Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects): projects to learn from and practice with.
-
 ## Technology
 
 Languages: C#, JavaScript, SQL<br>
 Frameworks: .NET, ASP.NET Core MVC, Web API, Blazor<br>
 Data: SQL Server, Oracle, MySQL, Firebase<br>
-**Tools:** Visual Studio, VS Code, Git, Postman
+Tools: Visual Studio, VS Code, Git, Postman
 
 ## Featured Projects Portfolio
 
 Web apps, practice projects, and teaching demos, with source code and live demos where available.
+
+<details>
+<summary>Browse all 22 projects</summary>
 
 **Dev Track**<br>
 Developer progress tracker. Keeps track of learning tasks or project work in one place.<br>
@@ -192,12 +218,14 @@ Small shop cash register. Add products, ring up sales, and see totals, like a si
 [Live demo](https://blazor-wasm-mini-pos.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/mini-pos)
 
 **Push Notification**<br>
-Alert message demo. Shows how apps send pop-up notifications to your phone or browser (e.g.<br>
+A Next.js and Firebase demo for sending push notifications to a browser.<br>
 [Live demo](https://nextjs-firebase-push-notification.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/nextjs-firebase-push-notification)
 
 **Banking Management System**<br>
 Practice bank back office. View accounts, balances, and transfers in a training version of banking software, similar to tools bank staff use, but for learning only (not a real bank).<br>
 [Live demo](https://blazor-wasm-banking-management-system.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/banking-management-system)
+
+</details>
 
 ## GitHub Activity
 

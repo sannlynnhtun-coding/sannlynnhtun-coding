@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-labelledby="title">
+<title id="title">Dot Pet: Purple robot pet</title>
+<rect width="900" height="100" rx="10" fill="#f6f8fa"/>
+<rect x="0" y="20" width="4" height="60" rx="2" fill="#087f70"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="26" y="32" fill="#087f70" font-size="12">A CODING COMPANION</text>
+<text x="25" y="71" fill="#1f2328" font-size="28" font-weight="600">Dot Pet</text>
+</g></svg>
