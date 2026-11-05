@@ -1,6 +1,5 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/profile-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/profile-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
   <img src="assets/profile-light.svg" width="100%" alt="Sann Lynn Htun: .NET Engineer and Open-source Developer. Helping beginners and junior developers grow toward senior roles. Yangon, Myanmar.">
 </picture>
@@ -17,8 +16,7 @@ I am the **Founder & Organizer of [One Project One Month](https://one-project-on
 
 <a href="https://github.com/sannlynnhtun-coding/markitdown-desktop">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/markitdown-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/markitdown-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/markitdown-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-dark.svg">
   <img src="assets/markitdown-light.svg" width="100%" alt="MarkItDown Desktop: Windows desktop app">
 </picture>
@@ -29,8 +27,7 @@ A Windows desktop app powered by Microsoft MarkItDown for converting local docum
 
 <a href="https://github.com/sannlynnhtun-coding/blazor-gist-hub">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/gist-hub-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/gist-hub-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/gist-hub-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/gist-hub-dark.svg">
   <img src="assets/gist-hub-light.svg" width="100%" alt="Blazor Gist Hub: Blazor WebAssembly">
 </picture>
@@ -41,8 +38,7 @@ A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, wi
 
 <a href="https://github.com/sannlynnhtun-coding/dot-pet">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/dot-pet-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/dot-pet-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/dot-pet-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/dot-pet-dark.svg">
   <img src="assets/dot-pet-light.svg" width="100%" alt="Dot Pet: Purple robot pet">
 </picture>
@@ -53,8 +49,7 @@ A purple robot coding pet with adoption and agent installation guidance, plus a 
 
 <a href="https://github.com/sannlynnhtun-coding/markdown-viewer-app">
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/markdown-viewer-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/markdown-viewer-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/markdown-viewer-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/markdown-viewer-dark.svg">
   <img src="assets/markdown-viewer-light.svg" width="100%" alt="Markdown Viewer App: Windows desktop app">
 </picture>
@@ -66,8 +61,7 @@ A Windows desktop app for browsing, previewing, and editing Markdown files in a 
 ## Community & Learning
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/one-project-one-month-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/one-project-one-month-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/one-project-one-month-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/one-project-one-month-dark.svg">
   <img src="assets/one-project-one-month-light.svg" width="100%" alt="One Project One Month: Founder and Organizer, Sann Lynn Htun. Idea → Team → Build → Share.">
 </picture>
@@ -78,8 +72,7 @@ A monthly community where teams turn one idea into a finished project in 30 days
 [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/learning-path-dark-mobile.svg">
-  <source media="(max-width: 600px)" srcset="assets/learning-path-light-mobile.svg">
+  <source media="(max-width: 600px)" srcset="assets/learning-path-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/learning-path-dark.svg">
   <img src="assets/learning-path-light.svg" width="100%" alt="Helping beginners and junior developers: learn C#, build projects, and deepen .NET skills toward senior roles.">
 </picture>
