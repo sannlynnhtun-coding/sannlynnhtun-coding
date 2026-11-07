@@ -62,8 +62,27 @@ A Windows desktop app for browsing, previewing, and editing Markdown files in a 
 
 These projects were created by other developers. I forked them and made modifications to fit my daily workflow. Credit for the original projects goes to their authors and contributors.
 
-- **[drawio](https://github.com/sannlynnhtun-coding/drawio)**: a diagramming and whiteboarding tool I customize for everyday planning and documentation. Forked from [jgraph/drawio](https://github.com/jgraph/drawio).
-- **[dbmap](https://github.com/sannlynnhtun-coding/dbmap)**: a browser-based database schema designer for working with DBML, ER diagrams, and SQL import/export, with modifications for my daily development work. Forked from [aungkyawminn/dbmap](https://github.com/aungkyawminn/dbmap). [Live demo](https://dbmaps.vercel.app/).
+<a href="https://github.com/sannlynnhtun-coding/drawio">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/drawio-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/drawio-dark.svg">
+  <img src="assets/drawio-light.svg" width="100%" alt="drawio: customized fork for daily use">
+</picture>
+</a>
+
+A diagramming and whiteboarding tool for creating flowcharts, planning workflows, and documenting ideas, with modifications to fit my daily work.<br>
+[Repository](https://github.com/sannlynnhtun-coding/drawio) · [Original project](https://github.com/jgraph/drawio)
+
+<a href="https://github.com/sannlynnhtun-coding/dbmap">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/dbmap-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dbmap-dark.svg">
+  <img src="assets/dbmap-light.svg" width="100%" alt="dbmap: customized fork for daily use">
+</picture>
+</a>
+
+A browser-based database schema designer for writing DBML, exploring interactive ER diagrams, and importing or exporting SQL, with modifications for my daily development work.<br>
+[Live demo](https://dbmaps.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/dbmap) · [Original project](https://github.com/aungkyawminn/dbmap)
 
 ## Community & Learning
 
