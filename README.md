@@ -58,6 +58,13 @@ A purple robot coding pet with adoption and agent installation guidance, plus a 
 A Windows desktop app for browsing, previewing, and editing Markdown files in a selected folder.<br>
 [Repository](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
+## Forks I Use & Customize
+
+These projects were created by other developers. I forked them and made modifications to fit my daily workflow. Credit for the original projects goes to their authors and contributors.
+
+- **[drawio](https://github.com/sannlynnhtun-coding/drawio)**: a diagramming and whiteboarding tool I customize for everyday planning and documentation. Forked from [jgraph/drawio](https://github.com/jgraph/drawio).
+- **[dbmap](https://github.com/sannlynnhtun-coding/dbmap)**: a browser-based database schema designer for working with DBML, ER diagrams, and SQL import/export, with modifications for my daily development work. Forked from [aungkyawminn/dbmap](https://github.com/aungkyawminn/dbmap). [Live demo](https://dbmaps.vercel.app/).
+
 ## Community & Learning
 
 <picture>
