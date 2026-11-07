@@ -92,6 +92,8 @@ A browser-based database schema designer for writing DBML, exploring interactive
   <img src="assets/one-project-one-month-light.svg" width="100%" alt="One Project One Month: Founder and Organizer, Sann Lynn Htun. Idea → Team → Build → Share.">
 </picture>
 
+<p><a href="https://one-project-one-month.com/"><img src="assets/communities/opom.png" width="96" height="96" alt="One Project One Month logo"></a></p>
+
 **Founder & Organizer · [One Project One Month](https://one-project-one-month.com/)**<br>
 Mar 2024 – Present · Yangon, remote<br>
 A monthly community where teams turn one idea into a finished project in 30 days. *Build Together, Grow Together.*<br>
@@ -103,11 +105,19 @@ A monthly community where teams turn one idea into a finished project in 30 days
   <img src="assets/burma-project-ideas-light.svg" width="100%" alt="Burma Project Ideas: project ideas, guides, and examples across languages for junior developers in Myanmar.">
 </picture>
 
+<p><a href="https://github.com/burma-project-ideas"><img src="assets/communities/burma-project-ideas.png" width="96" height="96" alt="Burma Project Ideas logo"></a></p>
+
 **[Burma Project Ideas](https://github.com/burma-project-ideas)**<br>
 A community collection of project ideas, guides, and practical examples to help junior developers in Myanmar build their first projects. The goal is to leave projects in different programming languages for the next developer to study and build on.
 
 Projects include [Burma Calendar](https://github.com/burma-project-ideas/burma-calendar), [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs), and [Burmese Recipes](https://github.com/burma-project-ideas/burmese-recipes), with contributors credited in the community README.<br>
 [Community repositories](https://github.com/burma-project-ideas) · [About the community & contributors](https://github.com/burma-project-ideas/.github/blob/main/profile/README.md)
+
+<p><a href="https://t.me/acktm_knowledge_sharing_channel"><img src="assets/communities/acktm.png" width="96" height="96" alt="ACKTM Knowledge Sharing Channel logo"></a></p>
+
+**[ACKTM Knowledge Sharing Channel](https://t.me/acktm_knowledge_sharing_channel)**<br>
+A Telegram channel for sharing knowledge and learning together.<br>
+[Join the channel](https://t.me/acktm_knowledge_sharing_channel)
 
 #### Project Ideas & Practice
 
