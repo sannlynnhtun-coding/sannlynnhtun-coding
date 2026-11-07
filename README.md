@@ -16,9 +16,9 @@ I am the **Founder & Organizer of [One Project One Month](https://one-project-on
 
 <a href="https://github.com/sannlynnhtun-coding/blazor-gist-hub">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/gist-hub-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/gist-hub-dark.svg?v=compact-1">
-  <img src="assets/gist-hub-light.svg?v=compact-1" width="100%" alt="Blazor Gist Hub: Blazor WebAssembly">
+  <source media="(max-width: 600px)" srcset="assets/gist-hub-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/gist-hub-compact-dark.svg">
+  <img src="assets/gist-hub-compact-light.svg" width="100%" alt="Blazor Gist Hub: Blazor WebAssembly">
 </picture>
 </a>
 
@@ -27,9 +27,9 @@ A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, wi
 
 <a href="https://github.com/sannlynnhtun-coding/dot-pet">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/dot-pet-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dot-pet-dark.svg?v=compact-1">
-  <img src="assets/dot-pet-light.svg?v=compact-1" width="100%" alt="Dot Pet: Purple robot pet">
+  <source media="(max-width: 600px)" srcset="assets/dot-pet-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dot-pet-compact-dark.svg">
+  <img src="assets/dot-pet-compact-light.svg" width="100%" alt="Dot Pet: Purple robot pet">
 </picture>
 </a>
 
@@ -38,9 +38,9 @@ A purple robot coding pet with adoption and agent installation guidance, plus a 
 
 <a href="https://github.com/sannlynnhtun-coding/markdown-viewer-app">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/markdown-viewer-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/markdown-viewer-dark.svg?v=compact-1">
-  <img src="assets/markdown-viewer-light.svg?v=compact-1" width="100%" alt="Markdown Viewer App: Windows desktop app">
+  <source media="(max-width: 600px)" srcset="assets/markdown-viewer-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/markdown-viewer-compact-dark.svg">
+  <img src="assets/markdown-viewer-compact-light.svg" width="100%" alt="Markdown Viewer App: Windows desktop app">
 </picture>
 </a>
 
@@ -53,9 +53,9 @@ These projects were created by other developers. I forked them and made modifica
 
 <a href="https://github.com/sannlynnhtun-coding/markitdown-desktop">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/markitdown-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-dark.svg?v=compact-1">
-  <img src="assets/markitdown-light.svg?v=compact-1" width="100%" alt="MarkItDown Desktop: customized desktop app based on Microsoft MarkItDown">
+  <source media="(max-width: 600px)" srcset="assets/markitdown-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-compact-dark.svg">
+  <img src="assets/markitdown-compact-light.svg" width="100%" alt="MarkItDown Desktop: customized desktop app based on Microsoft MarkItDown">
 </picture>
 </a>
 
@@ -64,9 +64,9 @@ A Windows desktop app I customized for converting PDFs to Markdown, with offline
 
 <a href="https://github.com/sannlynnhtun-coding/drawio">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/drawio-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/drawio-dark.svg?v=compact-1">
-  <img src="assets/drawio-light.svg?v=compact-1" width="100%" alt="drawio: customized fork for daily use">
+  <source media="(max-width: 600px)" srcset="assets/drawio-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/drawio-compact-dark.svg">
+  <img src="assets/drawio-compact-light.svg" width="100%" alt="drawio: customized fork for daily use">
 </picture>
 </a>
 
@@ -75,9 +75,9 @@ A diagramming and whiteboarding tool for creating flowcharts, planning workflows
 
 <a href="https://github.com/sannlynnhtun-coding/dbmap">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/dbmap-mobile.svg?v=compact-1">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dbmap-dark.svg?v=compact-1">
-  <img src="assets/dbmap-light.svg?v=compact-1" width="100%" alt="dbmap: customized fork for daily use">
+  <source media="(max-width: 600px)" srcset="assets/dbmap-compact-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dbmap-compact-dark.svg">
+  <img src="assets/dbmap-compact-light.svg" width="100%" alt="dbmap: customized fork for daily use">
 </picture>
 </a>
 
