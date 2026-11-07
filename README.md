@@ -87,9 +87,9 @@ A browser-based database schema designer for writing DBML, exploring interactive
 ## Community & Learning
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/one-project-one-month-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/one-project-one-month-dark.svg">
-  <img src="assets/one-project-one-month-light.svg" width="100%" alt="One Project One Month: Founder and Organizer, Sann Lynn Htun. Idea → Team → Build → Share.">
+  <source media="(max-width: 600px)" srcset="assets/one-project-one-month-mobile.svg?v=compact-2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/one-project-one-month-dark.svg?v=compact-2">
+  <img src="assets/one-project-one-month-light.svg?v=compact-2" width="100%" alt="One Project One Month: Founder and Organizer, Sann Lynn Htun. Idea → Team → Build → Share.">
 </picture>
 
 **Founder & Organizer · [One Project One Month](https://one-project-one-month.com/)**<br>
@@ -98,9 +98,9 @@ A monthly community where teams turn one idea into a finished project in 30 days
 [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
 
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/burma-project-ideas-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/burma-project-ideas-dark.svg">
-  <img src="assets/burma-project-ideas-light.svg" width="100%" alt="Burma Project Ideas: project ideas, guides, and examples across languages for junior developers in Myanmar.">
+  <source media="(max-width: 600px)" srcset="assets/burma-project-ideas-mobile.svg?v=compact-2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/burma-project-ideas-dark.svg?v=compact-2">
+  <img src="assets/burma-project-ideas-light.svg?v=compact-2" width="100%" alt="Burma Project Ideas: project ideas, guides, and examples across languages for junior developers in Myanmar.">
 </picture>
 
 **[Burma Project Ideas](https://github.com/burma-project-ideas)**<br>
@@ -109,13 +109,11 @@ A community collection of project ideas, guides, and practical examples to help 
 Projects include [Burma Calendar](https://github.com/burma-project-ideas/burma-calendar), [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs), and [Burmese Recipes](https://github.com/burma-project-ideas/burmese-recipes), with contributors credited in the community README.<br>
 [Community repositories](https://github.com/burma-project-ideas) · [About the community & contributors](https://github.com/burma-project-ideas/.github/blob/main/profile/README.md)
 
-<a href="https://t.me/acktm_knowledge_sharing_channel">
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/acktm-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/acktm-dark.svg">
-  <img src="assets/acktm-light.svg" width="100%" alt="ACKTM Knowledge Sharing Channel: learn and share together on Telegram.">
+  <source media="(max-width: 600px)" srcset="assets/acktm-mobile.svg?v=compact-2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/acktm-dark.svg?v=compact-2">
+  <img src="assets/acktm-light.svg?v=compact-2" width="100%" alt="ACKTM Knowledge Sharing Channel: learn and share together on Telegram.">
 </picture>
-</a>
 
 **[ACKTM Knowledge Sharing Channel](https://t.me/acktm_knowledge_sharing_channel)**<br>
 A Telegram channel for sharing knowledge and learning together.<br>
