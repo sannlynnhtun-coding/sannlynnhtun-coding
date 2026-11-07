@@ -5,3 +5,5 @@
 - `burma-project-ideas.png`: existing organization logo from https://github.com/burma-project-ideas/.github/blob/main/assets/logo.png.
 
 These are copied PNG assets, not editable vectors. No new license or ownership claim is made for these marks.
+
+The profile community SVG cards embed these unchanged PNGs. Coral/peach accents follow the supplied ACKTM/OPOM design guidance; they are not claimed as official OPOM specifications. Light/dark text colors retain contrast.
