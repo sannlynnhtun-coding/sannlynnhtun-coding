@@ -14,17 +14,6 @@ I am the **Founder & Organizer of [One Project One Month](https://one-project-on
 
 ## Open-Source Projects
 
-<a href="https://github.com/sannlynnhtun-coding/markitdown-desktop">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/markitdown-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-dark.svg">
-  <img src="assets/markitdown-light.svg" width="100%" alt="MarkItDown Desktop: Windows desktop app">
-</picture>
-</a>
-
-A Windows desktop app powered by Microsoft MarkItDown for converting local documents to Markdown without installing Python or using the command line.<br>
-[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop)
-
 <a href="https://github.com/sannlynnhtun-coding/blazor-gist-hub">
 <picture>
   <source media="(max-width: 600px)" srcset="assets/gist-hub-mobile.svg">
@@ -61,6 +50,17 @@ A Windows desktop app for browsing, previewing, and editing Markdown files in a 
 ## Forks I Use & Customize
 
 These projects were created by other developers. I forked them and made modifications to fit my daily workflow. Credit for the original projects goes to their authors and contributors.
+
+<a href="https://github.com/sannlynnhtun-coding/markitdown-desktop">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/markitdown-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-dark.svg">
+  <img src="assets/markitdown-light.svg" width="100%" alt="MarkItDown Desktop: customized desktop app based on Microsoft MarkItDown">
+</picture>
+</a>
+
+A Windows desktop app I customized for converting PDFs to Markdown, with offline Myanmar/English OCR, page previews, and batch conversion. Originally based on Microsoft MarkItDown, with modifications for my daily workflow.<br>
+[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop) · [Original project](https://github.com/microsoft/markitdown)
 
 <a href="https://github.com/sannlynnhtun-coding/drawio">
 <picture>
