@@ -1,4 +1,4 @@
-<img src="assets/yangon-after-dark.webp" width="100%" alt="Illustration of a laptop overlooking Yangon at dusk, with Shwedagon Pagoda in the distance">
+<img src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/yangon-after-dark.webp" width="100%" alt="Illustration of a laptop overlooking Yangon at dusk, with Shwedagon Pagoda in the distance">
 
 # Sann Lynn Htun
 
@@ -14,7 +14,7 @@ I lead development on banking and digital wallet software at [ACE Data Systems](
 
 ### Blazor Gist Hub
 
-[![GistHub snippet editor with a sample C# file, filename, and description](assets/gisthub-editor.webp)](https://gist-hub.vercel.app/)
+[![GistHub snippet editor with a sample C# file, filename, and description](https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/gisthub-editor.webp)](https://gist-hub.vercel.app/)
 
 **Blazor WebAssembly** · A workspace to create, find, and organize GitHub Gists.
 
@@ -29,8 +29,8 @@ I lead development on banking and digital wallet software at [ACE Data Systems](
 <details open>
 <summary>Show or hide Dot’s animation</summary>
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dot-pet-idle.png">
-  <img src="assets/dot-pet-hop.gif" width="160" alt="Dot, a purple robot, hops and settles back into its idle pose">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-idle.png">
+  <img src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-hop.gif" width="160" alt="Dot, a purple robot, hops and settles back into its idle pose">
 </picture>
 </details>
 
@@ -40,7 +40,7 @@ I lead development on banking and digital wallet software at [ACE Data Systems](
 
 ### Markdown Viewer
 
-[![Markdown Viewer showing a folder tree beside rendered release notes](assets/markdown-viewer-preview.webp)](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
+[![Markdown Viewer showing a folder tree beside rendered release notes](https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/markdown-viewer-preview.webp)](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
 **Windows desktop** · Browse, preview, and edit Markdown across an entire folder.
 
