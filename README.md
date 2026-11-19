@@ -2,49 +2,36 @@
 
 # Sann Lynn Htun
 
-**.NET team lead and C# instructor · Yangon, Myanmar**
-
-I lead development on banking and digital wallet software at [ACE Data Systems](https://acedatasystems.com/). Outside work, I build open-source tools and help developers in Myanmar ship their first projects through [One Project One Month](https://one-project-one-month.com/).
-
-[See my projects](#selected-work) · [Learn C# with me](#learn-c--net) · [Explore the community](#community--learning)
+.NET team lead at [ACE Data Systems](https://acedatasystems.com/) and C# instructor in Yangon, Myanmar. I build banking software and run [One Project One Month](https://one-project-one-month.com/).
 
 [LinkedIn](https://linkedin.com/in/sannlynnhtun) · [YouTube](https://www.youtube.com/@SannLynnHtun) · [Facebook](https://fb.com/sannlynnhtun-coding) · [Telegram](https://t.me/+SnO5wIMP8QRhYmZl)
 
 ## Selected work
 
-### Blazor Gist Hub
+<table>
+  <tr>
+    <td width="96"><a href="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/gisthub-editor.webp"><img width="96" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/gisthub-editor.webp" alt="GistHub editor screenshot"></a></td>
+    <td><strong>Blazor Gist Hub</strong><br>Organize and edit GitHub Gists.<br><a href="https://gist-hub.vercel.app/">Live app</a> · <a href="https://github.com/sannlynnhtun-coding/blazor-gist-hub">Source</a></td>
+  </tr>
+  <tr>
+    <td><details open><summary>Preview</summary><picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-idle.png">
+      <img width="56" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-hop.gif" alt="Dot, a purple robot, hops in place">
+    </picture></details></td>
+    <td><strong>Dot Pet</strong><br>A coding companion for your desktop.<br><a href="https://github.com/sannlynnhtun-coding/dot-pet">Adopt Dot</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/markdown-viewer-preview.webp"><img width="96" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/markdown-viewer-preview.webp" alt="Markdown Viewer screenshot"></a></td>
+    <td><strong>Markdown Viewer</strong><br>Browse, preview, and edit Markdown on Windows.<br><a href="https://github.com/sannlynnhtun-coding/markdown-viewer-app/releases/latest">Download</a> · <a href="https://github.com/sannlynnhtun-coding/markdown-viewer-app">Source</a></td>
+  </tr>
+</table>
 
-[![GistHub snippet editor with a sample C# file, filename, and description](https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/gisthub-editor.webp)](https://gist-hub.vercel.app/)
+## Learn C# & .NET
 
-**Blazor WebAssembly** · A workspace to create, find, and organize GitHub Gists.
+[Junior .NET roadmap](https://github.com/sannlynnhtun-coding/junior-dotnet-developer-roadmap) · [C# course](https://github.com/sannlynnhtun-coding/csharp-course) · [C# examples](https://github.com/sannlynnhtun-coding/csharp-examples)
 
-[Open the live app](https://gist-hub.vercel.app/) · [View source](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
-
----
-
-### Dot Pet
-
-**Coding companion** · Adopt a purple robot that idles, looks around, and hops.
-
-<details open>
-<summary>Show or hide Dot’s animation</summary>
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-idle.png">
-  <img src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/dot-pet-hop.gif" width="160" alt="Dot, a purple robot, hops and settles back into its idle pose">
-</picture>
-</details>
-
-[Adopt Dot or view source](https://github.com/sannlynnhtun-coding/dot-pet)
-
----
-
-### Markdown Viewer
-
-[![Markdown Viewer showing a folder tree beside rendered release notes](https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/main/assets/markdown-viewer-preview.webp)](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
-
-**Windows desktop** · Browse, preview, and edit Markdown across an entire folder.
-
-[Download for Windows](https://github.com/sannlynnhtun-coding/markdown-viewer-app/releases/latest) · [View source](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
+<details>
+<summary>Community and learning resources</summary>
 
 ## Community & Learning
 
@@ -80,24 +67,10 @@ A Telegram channel for sharing knowledge and learning together.<br>
 - [.NET Developer Guide](https://sannlynnhtun.gitbook.io/dotnet-developer/): concepts and practical notes for .NET developers.
 - [Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects): projects to learn from and practice with.
 
-## Forks I Use & Customize
+</details>
 
-I adapted these tools for my daily workflow. Each entry credits the original project.
-
-### MarkItDown Desktop
-
-A Windows desktop app I customized for converting PDFs to Markdown, with offline Myanmar/English OCR, page previews, and batch conversion. Originally based on Microsoft MarkItDown, with modifications for my daily workflow.<br>
-[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop) · [Original project](https://github.com/microsoft/markitdown)
-
-### draw.io
-
-A diagramming and whiteboarding tool for creating flowcharts, planning workflows, and documenting ideas, with modifications to fit my daily work.<br>
-[Repository](https://github.com/sannlynnhtun-coding/drawio) · [Original project](https://github.com/jgraph/drawio)
-
-### dbmap
-
-A browser-based database schema designer for writing DBML, exploring interactive ER diagrams, and importing or exporting SQL, with modifications for my daily development work.<br>
-[Live demo](https://dbmaps.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/dbmap) · [Original project](https://github.com/aungkyawminn/dbmap)
+<details>
+<summary>Experience, teaching, and technology</summary>
 
 ## Experience
 
@@ -156,6 +129,30 @@ Languages: C#, JavaScript, SQL<br>
 Frameworks: .NET, ASP.NET Core MVC, Web API, Blazor<br>
 Data: SQL Server, Oracle, MySQL, Firebase<br>
 Tools: Visual Studio, VS Code, Git, Postman
+
+</details>
+
+<details>
+<summary>More projects and customized forks</summary>
+
+## Forks I Use & Customize
+
+I adapted these tools for my daily workflow. Each entry credits the original project.
+
+### MarkItDown Desktop
+
+A Windows desktop app I customized for converting PDFs to Markdown, with offline Myanmar/English OCR, page previews, and batch conversion. Originally based on Microsoft MarkItDown, with modifications for my daily workflow.<br>
+[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop) · [Original project](https://github.com/microsoft/markitdown)
+
+### draw.io
+
+A diagramming and whiteboarding tool for creating flowcharts, planning workflows, and documenting ideas, with modifications to fit my daily work.<br>
+[Repository](https://github.com/sannlynnhtun-coding/drawio) · [Original project](https://github.com/jgraph/drawio)
+
+### dbmap
+
+A browser-based database schema designer for writing DBML, exploring interactive ER diagrams, and importing or exporting SQL, with modifications for my daily development work.<br>
+[Live demo](https://dbmaps.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/dbmap) · [Original project](https://github.com/aungkyawminn/dbmap)
 
 ## Project archive
 
@@ -254,6 +251,11 @@ Practice bank back office. View accounts, balances, and transfers in a training 
 
 </details>
 
+</details>
+
+<details>
+<summary>GitHub contribution animation</summary>
+
 ## GitHub Activity
 
 <details>
@@ -264,4 +266,6 @@ Practice bank back office. View accounts, balances, and transfers in a training 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg">
   <img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" alt="GitHub contributions shown as a snake animation">
 </picture>
+</details>
+
 </details>
