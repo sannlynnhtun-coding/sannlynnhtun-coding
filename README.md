@@ -1,33 +1,43 @@
+<img src="assets/yangon-after-dark.webp" width="100%" alt="Illustration of a laptop overlooking Yangon at dusk, with Shwedagon Pagoda in the distance">
+
 # Sann Lynn Htun
 
-**.NET engineer, team lead, and C# instructor based in Yangon, Myanmar.**
+**.NET team lead and C# instructor · Yangon, Myanmar**
 
-I build banking and digital wallet software at [ACE Data Systems](https://acedatasystems.com/) and help developers in Myanmar learn C# by building real projects. I started working in software in 2015 and founded [One Project One Month](https://one-project-one-month.com/).
+I lead development on banking and digital wallet software at [ACE Data Systems](https://acedatasystems.com/). Outside work, I build open-source tools and help developers in Myanmar ship their first projects through [One Project One Month](https://one-project-one-month.com/).
 
-[Projects](#open-source-projects) · [Community](#community--learning) · [Learn C#](#learn-c--net) · [Experience](#experience)
-
-![Three connected areas of my work: engineering, open source, and mentoring.](assets/profile-practice.svg)
+[See my projects](#selected-work) · [Learn C# with me](#learn-c--net) · [Explore the community](#community--learning)
 
 [LinkedIn](https://linkedin.com/in/sannlynnhtun) · [YouTube](https://www.youtube.com/@SannLynnHtun) · [Facebook](https://fb.com/sannlynnhtun-coding) · [Telegram](https://t.me/+SnO5wIMP8QRhYmZl)
 
-> We live. We code. We yoke.
-
-## Open-Source Projects
+## Selected work
 
 ### Blazor Gist Hub
 
-A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, with local caching, bookmarks, and collections.<br>
-[Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
+A workspace for your GitHub Gists. Search and edit snippets, bookmark the ones you use often, and organize them into collections.
+
+**Blazor WebAssembly** · [Try the live app](https://gist-hub.vercel.app/) · [View source](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
 
 ### Dot Pet
 
-A purple robot coding pet with adoption and agent installation guidance, plus a local animation preview.<br>
-[Repository](https://github.com/sannlynnhtun-coding/dot-pet)
+A purple desktop coding companion. Try its animations or adopt it in your coding agent.
+
+[Adopt Dot or view source](https://github.com/sannlynnhtun-coding/dot-pet)
+
+<details>
+<summary>Meet Dot in a short animation</summary>
+<br>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/dot-pet/main/previews/contact-sheet.png">
+  <img src="https://raw.githubusercontent.com/sannlynnhtun-coding/dot-pet/main/previews/idle-jump-idle.gif" width="240" alt="Dot, a purple robot, hops and settles back into its idle pose">
+</picture>
+</details>
 
 ### Markdown Viewer
 
-A Windows desktop app for browsing, previewing, and editing Markdown files in a selected folder.<br>
-[Repository](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
+A Windows desktop workspace for browsing, previewing, and editing Markdown across an entire folder.
+
+**Windows desktop** · [View source](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
 ## Community & Learning
 
@@ -140,9 +150,9 @@ Frameworks: .NET, ASP.NET Core MVC, Web API, Blazor<br>
 Data: SQL Server, Oracle, MySQL, Firebase<br>
 Tools: Visual Studio, VS Code, Git, Postman
 
-## Featured Projects Portfolio
+## Project archive
 
-Web apps, practice projects, and teaching demos, with source code and live demos where available.
+Web apps, practice projects, and classroom demos.
 
 <details>
 <summary>Browse all 22 projects</summary>
@@ -239,8 +249,12 @@ Practice bank back office. View accounts, balances, and transfers in a training 
 
 ## GitHub Activity
 
+<details>
+<summary>Play the contribution animation</summary>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg">
   <img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" alt="GitHub contributions shown as a snake animation">
 </picture>
+</details>
