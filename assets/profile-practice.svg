@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="166" viewBox="0 0 768 166">
+  <title>Engineering, open source, and mentoring</title>
+  <style>
+    .signal {
+      stroke-dasharray: 100;
+      stroke-dashoffset: 0;
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .signal {
+        animation: trace 2.4s ease-out both;
+      }
+    }
+
+    @keyframes trace {
+      from { stroke-dashoffset: 100; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#111d31"/>
+      <stop offset="1" stop-color="#102b30"/>
+    </linearGradient>
+    <linearGradient id="signal">
+      <stop stop-color="#a9baff"/>
+      <stop offset="1" stop-color="#69e5bf"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#aac9d9" stroke-opacity=".11"/>
+    </pattern>
+  </defs>
+  <rect width="768" height="166" rx="20" fill="url(#background)"/>
+  <rect width="768" height="166" rx="20" fill="url(#grid)"/>
+  <path d="M132 74H636" fill="none" stroke="#4f6774" stroke-width="3"/>
+  <path class="signal" d="M132 74H636" pathLength="100" fill="none" stroke="url(#signal)" stroke-width="3"/>
+  <g stroke-width="2">
+    <circle cx="132" cy="74" r="27" fill="#17253a" stroke="#a9baff"/>
+    <circle cx="384" cy="74" r="27" fill="#172a38" stroke="#95cfe6"/>
+    <circle cx="636" cy="74" r="27" fill="#132e33" stroke="#69e5bf"/>
+  </g>
+  <g fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m124 68-6 6 6 6m16-12 6 6-6 6m-5-16-6 20" stroke="#a9baff"/>
+    <path d="m384 63 12 6v11l-12 6-12-6V69zm-12 6 12 6 12-6m-12 6v11" stroke="#95cfe6"/>
+    <path d="M636 68c-4-4-8-5-13-4v16c5-1 9 0 13 4 4-4 8-5 13-4V64c-5-1-9 0-13 4v16" stroke="#69e5bf"/>
+  </g>
+  <g fill="#eef6fc" font-family="system-ui, sans-serif" font-size="27" font-weight="650" text-anchor="middle">
+    <text x="132" y="136">Engineering</text>
+    <text x="384" y="136">Open source</text>
+    <text x="636" y="136">Mentoring</text>
+  </g>
+</svg>

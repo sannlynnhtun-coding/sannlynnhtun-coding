@@ -1,142 +1,86 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" width="100%" alt="Sann Lynn Htun: .NET Engineer and Open-source Developer. Helping beginners and junior developers grow toward senior roles. Yangon, Myanmar.">
-</picture>
+# Sann Lynn Htun
+
+**.NET engineer, team lead, and C# instructor based in Yangon, Myanmar.**
+
+I build banking and digital wallet software at [ACE Data Systems](https://acedatasystems.com/) and help developers in Myanmar learn C# by building real projects. I started working in software in 2015 and founded [One Project One Month](https://one-project-one-month.com/).
+
+[Projects](#open-source-projects) · [Community](#community--learning) · [Learn C#](#learn-c--net) · [Experience](#experience)
+
+![Three connected areas of my work: engineering, open source, and mentoring.](assets/profile-practice.svg)
 
 [LinkedIn](https://linkedin.com/in/sannlynnhtun) · [YouTube](https://www.youtube.com/@SannLynnHtun) · [Facebook](https://fb.com/sannlynnhtun-coding) · [Telegram](https://t.me/+SnO5wIMP8QRhYmZl)
 
 > We live. We code. We yoke.
 
-I build banking and financial software with C# and .NET, and lead development teams at [ACE Data Systems](https://acedatasystems.com/). I have worked in software since 2015.
-
-I am the **Founder & Organizer of [One Project One Month](https://one-project-one-month.com/)**, a community where teams build one project in 30 days. I build open-source tools and help beginners and junior developers deepen their knowledge, gain practical experience, and grow toward senior developer roles through C# classes and mentoring.
-
 ## Open-Source Projects
 
-<a href="https://github.com/sannlynnhtun-coding/blazor-gist-hub">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/gist-hub-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/gist-hub-compact-dark.svg">
-  <img src="assets/gist-hub-compact-light.svg" width="100%" alt="Blazor Gist Hub: Blazor WebAssembly">
-</picture>
-</a>
+### Blazor Gist Hub
 
 A Blazor WebAssembly app for browsing, creating, and organizing GitHub Gists, with local caching, bookmarks, and collections.<br>
 [Live demo](https://gist-hub.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
 
-<a href="https://github.com/sannlynnhtun-coding/dot-pet">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/dot-pet-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dot-pet-compact-dark.svg">
-  <img src="assets/dot-pet-compact-light.svg" width="100%" alt="Dot Pet: Purple robot pet">
-</picture>
-</a>
+### Dot Pet
 
 A purple robot coding pet with adoption and agent installation guidance, plus a local animation preview.<br>
 [Repository](https://github.com/sannlynnhtun-coding/dot-pet)
 
-<a href="https://github.com/sannlynnhtun-coding/markdown-viewer-app">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/markdown-viewer-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/markdown-viewer-compact-dark.svg">
-  <img src="assets/markdown-viewer-compact-light.svg" width="100%" alt="Markdown Viewer App: Windows desktop app">
-</picture>
-</a>
+### Markdown Viewer
 
 A Windows desktop app for browsing, previewing, and editing Markdown files in a selected folder.<br>
 [Repository](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
-## Forks I Use & Customize
-
-These projects were created by other developers. I forked them and made modifications to fit my daily workflow. Credit for the original projects goes to their authors and contributors.
-
-<a href="https://github.com/sannlynnhtun-coding/markitdown-desktop">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/markitdown-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/markitdown-compact-dark.svg">
-  <img src="assets/markitdown-compact-light.svg" width="100%" alt="MarkItDown Desktop: customized desktop app based on Microsoft MarkItDown">
-</picture>
-</a>
-
-A Windows desktop app I customized for converting PDFs to Markdown, with offline Myanmar/English OCR, page previews, and batch conversion. Originally based on Microsoft MarkItDown, with modifications for my daily workflow.<br>
-[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop) · [Original project](https://github.com/microsoft/markitdown)
-
-<a href="https://github.com/sannlynnhtun-coding/drawio">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/drawio-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/drawio-compact-dark.svg">
-  <img src="assets/drawio-compact-light.svg" width="100%" alt="drawio: customized fork for daily use">
-</picture>
-</a>
-
-A diagramming and whiteboarding tool for creating flowcharts, planning workflows, and documenting ideas, with modifications to fit my daily work.<br>
-[Repository](https://github.com/sannlynnhtun-coding/drawio) · [Original project](https://github.com/jgraph/drawio)
-
-<a href="https://github.com/sannlynnhtun-coding/dbmap">
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/dbmap-compact-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dbmap-compact-dark.svg">
-  <img src="assets/dbmap-compact-light.svg" width="100%" alt="dbmap: customized fork for daily use">
-</picture>
-</a>
-
-A browser-based database schema designer for writing DBML, exploring interactive ER diagrams, and importing or exporting SQL, with modifications for my daily development work.<br>
-[Live demo](https://dbmaps.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/dbmap) · [Original project](https://github.com/aungkyawminn/dbmap)
-
 ## Community & Learning
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/one-project-one-month-mobile.svg?v=compact-2">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/one-project-one-month-dark.svg?v=compact-2">
-  <img src="assets/one-project-one-month-light.svg?v=compact-2" width="100%" alt="One Project One Month: Founder and Organizer, Sann Lynn Htun. Idea → Team → Build → Share.">
-</picture>
+### One Project One Month
 
-**Founder & Organizer · [One Project One Month](https://one-project-one-month.com/)**<br>
+Founder & Organizer<br>
 Mar 2024 – Present · Yangon, remote<br>
 A monthly community where teams turn one idea into a finished project in 30 days. *Build Together, Grow Together.*<br>
 [Website](https://one-project-one-month.com/) · [GitHub](https://github.com/one-project-one-month) · [LinkedIn](https://www.linkedin.com/company/one-project-one-month/)
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/burma-project-ideas-mobile.svg?v=compact-2">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/burma-project-ideas-dark.svg?v=compact-2">
-  <img src="assets/burma-project-ideas-light.svg?v=compact-2" width="100%" alt="Burma Project Ideas: project ideas, guides, and examples across languages for junior developers in Myanmar.">
-</picture>
+### Burma Project Ideas
 
-**[Burma Project Ideas](https://github.com/burma-project-ideas)**<br>
 A community collection of project ideas, guides, and practical examples to help junior developers in Myanmar build their first projects. The goal is to leave projects in different programming languages for the next developer to study and build on.
 
 Projects include [Burma Calendar](https://github.com/burma-project-ideas/burma-calendar), [Myanmar Proverbs](https://github.com/burma-project-ideas/myanmar-proverbs), and [Burmese Recipes](https://github.com/burma-project-ideas/burmese-recipes), with contributors credited in the community README.<br>
 [Community repositories](https://github.com/burma-project-ideas) · [About the community & contributors](https://github.com/burma-project-ideas/.github/blob/main/profile/README.md)
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/acktm-mobile.svg?v=compact-2">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/acktm-dark.svg?v=compact-2">
-  <img src="assets/acktm-light.svg?v=compact-2" width="100%" alt="ACKTM Knowledge Sharing Channel: learn and share together on Telegram.">
-</picture>
+### ACKTM Knowledge Sharing Channel
 
-**[ACKTM Knowledge Sharing Channel](https://t.me/acktm_knowledge_sharing_channel)**<br>
 A Telegram channel for sharing knowledge and learning together.<br>
 [Join the channel](https://t.me/acktm_knowledge_sharing_channel)
 
-#### Project Ideas & Practice
+### Project Ideas & Practice
 
 - [Burma Project Ideas](https://github.com/sannlynnhtun-coding/burma-project-ideas): project ideas and guidance for junior developers in Myanmar.
 - [Burma Project Ideas API with NestJS](https://github.com/sannlynnhtun-coding/burma-project-ideas-api-with-nestjs): a NestJS API for Burma Project Ideas.
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/learning-path-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/learning-path-dark.svg">
-  <img src="assets/learning-path-light.svg" width="100%" alt="Helping beginners and junior developers: learn C#, build projects, and deepen .NET skills toward senior roles.">
-</picture>
-
-#### Learn C# & .NET
+### Learn C# & .NET
 
 - [Junior .NET Developer Roadmap](https://github.com/sannlynnhtun-coding/junior-dotnet-developer-roadmap): a learning roadmap covering .NET fundamentals, web development, and database access.
 - [C# Course (.NET 8)](https://github.com/sannlynnhtun-coding/csharp-course): C#, ASP.NET Core, Blazor, and project practice.
 - [C# Examples](https://github.com/sannlynnhtun-coding/csharp-examples): console apps, web APIs, and Blazor examples.
 - [.NET Developer Guide](https://sannlynnhtun.gitbook.io/dotnet-developer/): concepts and practical notes for .NET developers.
 - [Burma .NET Blazor Projects](https://github.com/topics/burma-dotnet-blazor-projects): projects to learn from and practice with.
+
+## Forks I Use & Customize
+
+I adapted these tools for my daily workflow. Each entry credits the original project.
+
+### MarkItDown Desktop
+
+A Windows desktop app I customized for converting PDFs to Markdown, with offline Myanmar/English OCR, page previews, and batch conversion. Originally based on Microsoft MarkItDown, with modifications for my daily workflow.<br>
+[Repository](https://github.com/sannlynnhtun-coding/markitdown-desktop) · [Original project](https://github.com/microsoft/markitdown)
+
+### draw.io
+
+A diagramming and whiteboarding tool for creating flowcharts, planning workflows, and documenting ideas, with modifications to fit my daily work.<br>
+[Repository](https://github.com/sannlynnhtun-coding/drawio) · [Original project](https://github.com/jgraph/drawio)
+
+### dbmap
+
+A browser-based database schema designer for writing DBML, exploring interactive ER diagrams, and importing or exporting SQL, with modifications for my daily development work.<br>
+[Live demo](https://dbmaps.vercel.app/) · [Repository](https://github.com/sannlynnhtun-coding/dbmap) · [Original project](https://github.com/aungkyawminn/dbmap)
 
 ## Experience
 
