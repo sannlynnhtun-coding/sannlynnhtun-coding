@@ -14,30 +14,37 @@ I lead development on banking and digital wallet software at [ACE Data Systems](
 
 ### Blazor Gist Hub
 
-A workspace for your GitHub Gists. Search and edit snippets, bookmark the ones you use often, and organize them into collections.
+[![GistHub snippet editor with a sample C# file, filename, and description](assets/gisthub-editor.webp)](https://gist-hub.vercel.app/)
 
-**Blazor WebAssembly** · [Try the live app](https://gist-hub.vercel.app/) · [View source](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
+**Blazor WebAssembly** · A workspace to create, find, and organize GitHub Gists.
+
+[Open the live app](https://gist-hub.vercel.app/) · [View source](https://github.com/sannlynnhtun-coding/blazor-gist-hub)
+
+---
 
 ### Dot Pet
 
-A purple desktop coding companion. Try its animations or adopt it in your coding agent.
+**Coding companion** · Adopt a purple robot that idles, looks around, and hops.
 
-[Adopt Dot or view source](https://github.com/sannlynnhtun-coding/dot-pet)
-
-<details>
-<summary>Meet Dot in a short animation</summary>
-<br>
+<details open>
+<summary>Show or hide Dot’s animation</summary>
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/dot-pet/main/previews/contact-sheet.png">
-  <img src="https://raw.githubusercontent.com/sannlynnhtun-coding/dot-pet/main/previews/idle-jump-idle.gif" width="240" alt="Dot, a purple robot, hops and settles back into its idle pose">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dot-pet-idle.png">
+  <img src="assets/dot-pet-hop.gif" width="160" alt="Dot, a purple robot, hops and settles back into its idle pose">
 </picture>
 </details>
 
+[Adopt Dot or view source](https://github.com/sannlynnhtun-coding/dot-pet)
+
+---
+
 ### Markdown Viewer
 
-A Windows desktop workspace for browsing, previewing, and editing Markdown across an entire folder.
+[![Markdown Viewer showing a folder tree beside rendered release notes](assets/markdown-viewer-preview.webp)](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
-**Windows desktop** · [View source](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
+**Windows desktop** · Browse, preview, and edit Markdown across an entire folder.
+
+[Download for Windows](https://github.com/sannlynnhtun-coding/markdown-viewer-app/releases/latest) · [View source](https://github.com/sannlynnhtun-coding/markdown-viewer-app)
 
 ## Community & Learning
 
